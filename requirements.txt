@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+jsonschema         # For validating JSON structures
+pdfplumber         # For parsing PDFs, if applicable
+markdown2          # Convert markdown to HTML if needed for further parsing
+python-dotenv      # For environment variable management
+jupyter            # To work with Jupyter Notebooks
