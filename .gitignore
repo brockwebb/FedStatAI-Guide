@@ -11,4 +11,5 @@ __pycache__/
 *.csv
 *.pdf
 /data/
+/AuthoritativeCorpus/
 *.env
