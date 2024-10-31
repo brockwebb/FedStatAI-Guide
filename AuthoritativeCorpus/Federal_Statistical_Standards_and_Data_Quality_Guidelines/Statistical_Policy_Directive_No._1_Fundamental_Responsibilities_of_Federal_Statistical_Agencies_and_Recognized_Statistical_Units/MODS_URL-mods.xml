@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-2014-28326">
+    <name type="corporate">
+        <namePart>United States Government Publishing Office</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+            <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>National Archives and Records Administration</namePart>
+        <namePart>Office of the Federal Register</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+        <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+        <collectionCode>FR</collectionCode>
+        <category>Regulatory Information</category>
+        <waisDatabaseName>2014_register</waisDatabaseName>
+        <branch>executive</branch>
+        <dateIngested>2014-12-02</dateIngested>
+    </extension>
+    <genre authority="marcgt">article</genre>
+    <titleInfo>
+        <title>Statistical Policy Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units</title>
+        <partNumber>Part III</partNumber>
+        <partName>Notices</partName>
+    </titleInfo>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2014-12-02/html/2014-28326.htm">
+        <identifier type="FDsys Unique ID">D09002ee1c7f830ef</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2014-12-02/pdf/2014-28326.pdf">
+        <identifier type="FDsys Unique ID">D09002ee1c7f83180</identifier>
+    </relatedItem>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Office of Management and Budget</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <abstract>Under the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 1104 (d)) and the Paperwork Reduction Act of 1995 (44 U.S.C. 3504 (e)), the Office of Management and Budget (OMB) is issuing Statistical Policy Directive No. 1, Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units. This Directive affirms the fundamental responsibilities of Federal statistical agencies and recognized statistical units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information. On May 21, 2014, OMB published a Notice of solicitation of comments on a draft of this Directive in the Federal Register (79 FR 29308, May 21, 2014). Eight respondents sent comments in regard to the notice. Careful consideration was given to all comments. The disposition of the comments as well as the final Directive are presented in the SUPPLEMENTARY INFORMATION section below. In its role as coordinator of the Federal statistical system under the Paperwork Reduction Act, OMB, among other responsibilities, is required to ensure the efficiency and effectiveness of the system as well as the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes. OMB is also charged with developing and overseeing the implementation of Government-wide principles, policies, standards, and guidelines concerning the development, presentation, and dissemination of statistical information. The Information Quality Act (Pub. L. 106-554, Division C, title V, Sec. 515, Dec. 21, 2000; 114 Stat. 2763A-153 to 2763A-154) requires OMB, as well as all other Federal agencies, to maximize the objectivity, utility, and integrity of information, including statistical information, provided to the public. To operate efficiently and effectively, the Nation relies on the flow of objective, credible statistics to support the decisions of individuals, households, governments, businesses, and other organizations. Any loss of trust in the accuracy, objectivity, or integrity of the Federal statistical system and its products causes uncertainty about the validity of measures the Nation uses to monitor and assess its performance, progress, and needs by undermining the public's confidence in the information released by the Government. Although the Federal Government has taken a number of legislative and executive actions, informed by national and international practice, to maintain public confidence in Federal statistics, the actual implementation in the form of standards and practices can involve a wide range of managerial and technical challenges. Therefore, to support the quality and objectivity of Federal statistical information, OMB is issuing a new Statistical Policy Directive to affirm the long-acknowledged, fundamental responsibilities of Federal statistical agencies and recognized statistical units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information. Additional discussion of the Directive, together with the Directive itself, may be found in the SUPPLEMENTARY INFORMATION section below.</abstract>
+    <identifier type="FR citation">79 FR 71610</identifier>
+    <identifier type="uri">https://www.govinfo.gov/app/details/FR-2014-12-02/2014-28326</identifier>
+    <identifier type="FR Doc No.">2014-28326</identifier>
+    <identifier type="former granule identifier">fr02de14-139</identifier>
+    <identifier type="billing code">3110-01-P</identifier>
+    <location>
+        <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2014-12-02/2014-28326</url>
+        <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/FR-2014-12-02/html/2014-28326.htm</url>
+        <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/FR-2014-12-02/pdf/2014-28326.pdf</url>
+    </location>
+    <physicalDescription>
+        <extent>7 p.</extent>
+    </physicalDescription>
+    <part type="Part III">
+        <extent unit="pages">
+            <start>71610</start>
+            <end>71616</end>
+        </extent>
+    </part>
+    <identifier type="preferred citation">79 FR 71610</identifier>
+    <extension>
+        <searchTitle>Statistical Policy Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units; Federal Register Vol. 79, Issue </searchTitle>
+        <granuleClass>NOTICE</granuleClass>
+        <accessId>2014-28326</accessId>
+        <partNumber>III</partNumber>
+        <agency order="1">OFFICE OF MANAGEMENT AND BUDGET</agency>
+        <effectiveDate>2014-12-02</effectiveDate>
+        <billingCode>3110-01-P</billingCode>
+        <frDocNumber>2014-28326</frDocNumber>
+        <action>Notice of final decision.</action>
+        <summary>Under the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 1104 (d)) and the Paperwork Reduction Act of 1995 (44 U.S.C. 3504 (e)), the Office of Management and Budget (OMB) is issuing Statistical Policy Directive No. 1, Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units. This Directive affirms the fundamental responsibilities of Federal statistical agencies and recognized statistical units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information. On May 21, 2014, OMB published a Notice of solicitation of comments on a draft of this Directive in the Federal Register (79 FR 29308, May 21, 2014). Eight respondents sent comments in regard to the notice. Careful consideration was given to all comments. The disposition of the comments as well as the final Directive are presented in the SUPPLEMENTARY INFORMATION section below. In its role as coordinator of the Federal statistical system under the Paperwork Reduction Act, OMB, among other responsibilities, is required to ensure the efficiency and effectiveness of the system as well as the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes. OMB is also charged with developing and overseeing the implementation of Government-wide principles, policies, standards, and guidelines concerning the development, presentation, and dissemination of statistical information. The Information Quality Act (Pub. L. 106-554, Division C, title V, Sec. 515, Dec. 21, 2000; 114 Stat. 2763A-153 to 2763A-154) requires OMB, as well as all other Federal agencies, to maximize the objectivity, utility, and integrity of information, including statistical information, provided to the public. To operate efficiently and effectively, the Nation relies on the flow of objective, credible statistics to support the decisions of individuals, households, governments, businesses, and other organizations. Any loss of trust in the accuracy, objectivity, or integrity of the Federal statistical system and its products causes uncertainty about the validity of measures the Nation uses to monitor and assess its performance, progress, and needs by undermining the public's confidence in the information released by the Government. Although the Federal Government has taken a number of legislative and executive actions, informed by national and international practice, to maintain public confidence in Federal statistics, the actual implementation in the form of standards and practices can involve a wide range of managerial and technical challenges. Therefore, to support the quality and objectivity of Federal statistical information, OMB is issuing a new Statistical Policy Directive to affirm the long-acknowledged, fundamental responsibilities of Federal statistical agencies and recognized statistical units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information. Additional discussion of the Directive, together with the Directive itself, may be found in the SUPPLEMENTARY INFORMATION section below.</summary>
+        <dates>Effective Date: The effective date of this Directive is December 2, 2014.</dates>
+        <contact>Jennifer Park, 10201 New Executive</contact>
+        <tocSubject1>Guidance:</tocSubject1>
+        <tocDoc>Statistical Policy Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units
+, </tocDoc>
+        <emailRef>DirectiveNo1@omb.eop.gov</emailRef>
+        <emailRef>jpark@omb.eop.gov</emailRef>
+        <urlRef>www.omb.gov/inforeg/ssp/DirectiveNo1Final</urlRef>
+    </extension>
+    <relatedItem type="host" ID="P0b002ee18a592de7" xlink:href="https://www.govinfo.gov/metadata/pkg/FR-2014-12-02/mods.xml">
+        <titleInfo>
+            <title>Federal Register</title>
+            <partNumber>Vol. 79, no. 231</partNumber>
+        </titleInfo>
+        <originInfo>
+            <publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+            <dateIssued encoding="w3cdtf">2014-12-02</dateIssued>
+            <issuance>continuing</issuance>
+            <frequency>daily</frequency>
+        </originInfo>
+        <physicalDescription>
+            <note type="source content type">deposited</note>
+            <digitalOrigin>born digital</digitalOrigin>
+            <extent>333 p.</extent>
+        </physicalDescription>
+        <tableOfContents xlink:href="https://www.govinfo.gov/app/frtoc/2014-12-02">    
+		  Table of Contents: 
+		</tableOfContents>
+        <classification authority="sudocs">AE 2.7:</classification>
+        <classification authority="sudocs">GS 4.107:</classification>
+        <classification authority="sudocs">AE 2.106:</classification>
+        <classification authority="lcc">KF70.A2</classification>
+        <identifier type="uri">https://www.govinfo.gov/app/details/FR-2014-12-02</identifier>
+        <identifier type="local">P0b002ee18a592de7</identifier>
+        <identifier type="issn">0097-6326</identifier>
+        <identifier type="issn">0042-1219</identifier>
+        <identifier type="issn">0364-1406</identifier>
+        <identifier type="stock number">769-004-00000-9</identifier>
+        <identifier type="ILS system id">000582072</identifier>
+        <identifier type="former identifier">f:fr02de14</identifier>
+        <location>
+            <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2014-12-02</url>
+            <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2014-12-02/pdf/FR-2014-12-02.pdf</url>
+            <url displayLabel="XML rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2014-12-02/xml/FR-2014-12-02.xml</url>
+        </location>
+        <accessCondition type="GPO scope determination">fdlp</accessCondition>
+        <part type="issue">
+            <extent unit="pages">
+                <start>71295</start>
+                <end>71619</end>
+            </extent>
+        </part>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DGPO</recordContentSource>
+            <recordCreationDate encoding="w3cdtf">2014-12-02</recordCreationDate>
+            <recordChangeDate encoding="w3cdtf">2024-06-02</recordChangeDate>
+            <recordIdentifier source="DGPO">FR-2014-12-02</recordIdentifier>
+            <recordOrigin>machine generated</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <extension>
+            <docClass>FR</docClass>
+            <accessId>FR-2014-12-02</accessId>
+            <volume>79</volume>
+            <issue>231</issue>
+        </extension>
+    </relatedItem>
+</mods>

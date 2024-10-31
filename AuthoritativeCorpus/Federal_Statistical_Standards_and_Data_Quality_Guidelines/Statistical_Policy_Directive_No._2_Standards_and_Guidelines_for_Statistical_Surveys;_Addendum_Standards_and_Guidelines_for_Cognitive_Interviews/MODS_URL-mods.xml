@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-2016-24607">
+    <name type="corporate">
+        <namePart>United States Government Publishing Office</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+            <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>National Archives and Records Administration</namePart>
+        <namePart>Office of the Federal Register</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+        <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+        <collectionCode>FR</collectionCode>
+        <category>Regulatory Information</category>
+        <waisDatabaseName>2016_register</waisDatabaseName>
+        <branch>executive</branch>
+        <dateIngested>2016-10-12</dateIngested>
+    </extension>
+    <genre authority="marcgt">article</genre>
+    <titleInfo>
+        <title>Statistical Policy Directive No. 2: Standards and Guidelines for Statistical Surveys; Addendum: Standards and Guidelines for Cognitive Interviews</title>
+        <partNumber>Part IV</partNumber>
+        <partName>Notices</partName>
+    </titleInfo>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2016-10-12/html/2016-24607.htm">
+        <identifier type="FDsys Unique ID">D09002ee1c7f35c68</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2016-10-12/pdf/2016-24607.pdf">
+        <identifier type="FDsys Unique ID">D09002ee1c7f35cf5</identifier>
+    </relatedItem>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Office of Management and Budget</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <abstract>Under the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 1104 (d)) and the Paperwork Reduction Act of 1995 (44 U.S.C. 3504 (e)), the Office of Management and Budget (OMB) is issuing Statistical Policy Directive No. 2 Addendum: Standards and Guidelines for Statistical Surveys. This Addendum provides Standards and Guidelines for Conducting Cognitive Interviews. The Addendum may be accessed at www.WhiteHouse.gov/sites/default/ files/omb/inforeg/directive2/final_addendum_to_stat_policy_dir_2.pdf. Additional discussion of the Addendum may be found in the SUPPLEMENTARY INFORMATION section below.</abstract>
+    <identifier type="FR citation">81 FR 70586</identifier>
+    <identifier type="uri">https://www.govinfo.gov/app/details/FR-2016-10-12/2016-24607</identifier>
+    <identifier type="FR Doc No.">2016-24607</identifier>
+    <identifier type="former granule identifier">fr12oc16-134</identifier>
+    <identifier type="billing code">P</identifier>
+    <location>
+        <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2016-10-12/2016-24607</url>
+        <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/FR-2016-10-12/html/2016-24607.htm</url>
+        <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/FR-2016-10-12/pdf/2016-24607.pdf</url>
+    </location>
+    <physicalDescription>
+        <extent>2 p.</extent>
+    </physicalDescription>
+    <part type="Part IV">
+        <extent unit="pages">
+            <start>70586</start>
+            <end>70587</end>
+        </extent>
+    </part>
+    <identifier type="preferred citation">81 FR 70586</identifier>
+    <extension>
+        <searchTitle>Statistical Policy Directive No. 2: Standards and Guidelines for Statistical Surveys; Addendum: Standards and Guidelines for Cognitive Interviews; Federal Register Vol. 81, Issue </searchTitle>
+        <granuleClass>NOTICE</granuleClass>
+        <accessId>2016-24607</accessId>
+        <partNumber>IV</partNumber>
+        <agency order="1">OFFICE OF MANAGEMENT AND BUDGET</agency>
+        <billingCode>P</billingCode>
+        <frDocNumber>2016-24607</frDocNumber>
+        <action>Notice of final decision.</action>
+        <summary>Under the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 1104 (d)) and the Paperwork Reduction Act of 1995 (44 U.S.C. 3504 (e)), the Office of Management and Budget (OMB) is issuing Statistical Policy Directive No. 2 Addendum: Standards and Guidelines for Statistical Surveys. This Addendum provides Standards and Guidelines for Conducting Cognitive Interviews. The Addendum may be accessed at www.WhiteHouse.gov/sites/default/ files/omb/inforeg/directive2/final_addendum_to_stat_policy_dir_2.pdf. Additional discussion of the Addendum may be found in the SUPPLEMENTARY INFORMATION section below.</summary>
+        <dates>Effective Date: This Addendum is effective immediately.</dates>
+        <contact>Jennifer Park, 10201 New Executive</contact>
+        <tocSubject1>Statistical Policy Directive No. 2 Addendum:</tocSubject1>
+        <tocDoc>Standards and Guidelines for Statistical Surveys
+, </tocDoc>
+        <emailRef>DirectiveNo2@omb.eop.gov</emailRef>
+        <emailRef>jpark@omb.eop.gov</emailRef>
+        <urlRef>www.WhiteHouse.gov/sites/default/files/omb/inforeg/directive2/final_addendum_to_stat_policy_dir_2.pdf</urlRef>
+        <urlRef>www.WhiteHouse.gov/sites/default/files/omb/inforeg/directive2/FRN_stat_policy_dir_2_addendum.pdf</urlRef>
+    </extension>
+    <relatedItem type="host" ID="P0b002ee191a5d3bb" xlink:href="https://www.govinfo.gov/metadata/pkg/FR-2016-10-12/mods.xml">
+        <titleInfo>
+            <title>Federal Register</title>
+            <partNumber>Vol. 81, no. 197</partNumber>
+        </titleInfo>
+        <originInfo>
+            <publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+            <dateIssued encoding="w3cdtf">2016-10-12</dateIssued>
+            <issuance>continuing</issuance>
+            <frequency>daily</frequency>
+        </originInfo>
+        <physicalDescription>
+            <note type="source content type">deposited</note>
+            <digitalOrigin>born digital</digitalOrigin>
+            <extent>284 p.</extent>
+        </physicalDescription>
+        <tableOfContents xlink:href="https://www.govinfo.gov/app/frtoc/2016-10-12">    
+		  Table of Contents: 
+		</tableOfContents>
+        <classification authority="sudocs">AE 2.7:</classification>
+        <classification authority="sudocs">GS 4.107:</classification>
+        <classification authority="sudocs">AE 2.106:</classification>
+        <classification authority="lcc">KF70.A2</classification>
+        <identifier type="uri">https://www.govinfo.gov/app/details/FR-2016-10-12</identifier>
+        <identifier type="local">P0b002ee191a5d3bb</identifier>
+        <identifier type="issn">0097-6326</identifier>
+        <identifier type="issn">0042-1219</identifier>
+        <identifier type="issn">0364-1406</identifier>
+        <identifier type="stock number">769-004-00000-9</identifier>
+        <identifier type="ILS system id">000582072</identifier>
+        <identifier type="former identifier">f:fr12oc16</identifier>
+        <location>
+            <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2016-10-12</url>
+            <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2016-10-12/pdf/FR-2016-10-12.pdf</url>
+            <url displayLabel="XML rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2016-10-12/xml/FR-2016-10-12.xml</url>
+        </location>
+        <accessCondition type="GPO scope determination">fdlp</accessCondition>
+        <part type="issue">
+            <extent unit="pages">
+                <start>70319</start>
+                <end>70594</end>
+            </extent>
+        </part>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DGPO</recordContentSource>
+            <recordCreationDate encoding="w3cdtf">2016-10-12</recordCreationDate>
+            <recordChangeDate encoding="w3cdtf">2024-06-01</recordChangeDate>
+            <recordIdentifier source="DGPO">FR-2016-10-12</recordIdentifier>
+            <recordOrigin>machine generated</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <extension>
+            <docClass>FR</docClass>
+            <accessId>FR-2016-10-12</accessId>
+            <volume>81</volume>
+            <issue>197</issue>
+        </extension>
+    </relatedItem>
+</mods>

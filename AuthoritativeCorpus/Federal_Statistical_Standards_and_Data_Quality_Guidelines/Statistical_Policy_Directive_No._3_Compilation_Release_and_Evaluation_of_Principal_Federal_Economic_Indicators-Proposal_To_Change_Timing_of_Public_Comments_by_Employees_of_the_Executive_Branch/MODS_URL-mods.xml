@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-2023-18313">
+    <name type="corporate">
+        <namePart>United States Government Publishing Office</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+            <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>National Archives and Records Administration</namePart>
+        <namePart>Office of the Federal Register</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+        <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+        <collectionCode>FR</collectionCode>
+        <category>Regulatory Information</category>
+        <waisDatabaseName>2023_register</waisDatabaseName>
+        <branch>executive</branch>
+        <dateIngested>2023-08-25</dateIngested>
+    </extension>
+    <genre authority="marcgt">article</genre>
+    <titleInfo>
+        <title>Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators-Proposal To Change Timing of Public Comments by Employees of the Executive Branch</title>
+        <partName>Notices</partName>
+    </titleInfo>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2023-08-25/html/2023-18313.htm">
+        <identifier type="FDsys Unique ID">D09002ee1c7999603</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2023-08-25/pdf/2023-18313.pdf">
+        <identifier type="FDsys Unique ID">D09002ee1c79996ea</identifier>
+    </relatedItem>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Office of Management and Budget</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <abstract>The Office of Management and Budget (OMB) issues a request for public comments on a proposal to modify one provision within Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators (Directive No. 3). The procedures in Directive No. 3, published in 1985, were designed to ensure equitable, policy-neutral, and timely release and dissemination of Principal Federal Economic Indicators (PFEIs). The goals of Directive No. 3 remain sound; this Notice proposes updates to procedures consistent with these goals to reflect advances in communication technologies and methods. In particular, OMB proposes to modify the provision, "employees of the Executive Branch shall not comment publicly on the data until at least one hour after the official release time," by replacing "one hour" with "thirty minutes." This proposed change would reduce the delay after official release time before commentary from employees of the Executive Branch. Additional discussion of the request for public comment may be found in the SUPPLEMENTARY INFORMATION section below.</abstract>
+    <identifier type="FR citation">88 FR 58316</identifier>
+    <identifier type="uri">https://www.govinfo.gov/app/details/FR-2023-08-25/2023-18313</identifier>
+    <identifier type="FR Doc No.">2023-18313</identifier>
+    <identifier type="former granule identifier">fr25au23-105</identifier>
+    <identifier type="billing code">3110-01-P</identifier>
+    <location>
+        <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2023-08-25/2023-18313</url>
+        <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/FR-2023-08-25/html/2023-18313.htm</url>
+        <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/FR-2023-08-25/pdf/2023-18313.pdf</url>
+    </location>
+    <physicalDescription>
+        <extent>3 p.</extent>
+    </physicalDescription>
+    <part type="Notices">
+        <extent unit="pages">
+            <start>58316</start>
+            <end>58318</end>
+        </extent>
+    </part>
+    <identifier type="preferred citation">88 FR 58316</identifier>
+    <extension>
+        <searchTitle>Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators-Proposal To Change Timing of Public Comments by Employees of the Executive Branch; Federal Register Vol. 88, Issue </searchTitle>
+        <granuleClass>NOTICE</granuleClass>
+        <accessId>2023-18313</accessId>
+        <agency order="1">OFFICE OF MANAGEMENT AND BUDGET</agency>
+        <commentDate>2023-10-24</commentDate>
+        <billingCode>3110-01-P</billingCode>
+        <frDocNumber>2023-18313</frDocNumber>
+        <action>Notice of solicitation of comments.</action>
+        <summary>The Office of Management and Budget (OMB) issues a request for public comments on a proposal to modify one provision within Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators (Directive No. 3). The procedures in Directive No. 3, published in 1985, were designed to ensure equitable, policy-neutral, and timely release and dissemination of Principal Federal Economic Indicators (PFEIs). The goals of Directive No. 3 remain sound; this Notice proposes updates to procedures consistent with these goals to reflect advances in communication technologies and methods. In particular, OMB proposes to modify the provision, "employees of the Executive Branch shall not comment publicly on the data until at least one hour after the official release time," by replacing "one hour" with "thirty minutes." This proposed change would reduce the delay after official release time before commentary from employees of the Executive Branch. Additional discussion of the request for public comment may be found in the SUPPLEMENTARY INFORMATION section below.</summary>
+        <dates>To ensure consideration of comments on this notice, they must be received no later than October 24, 2023. Because of delays in the receipt of regular mail related to security screening, respondents are encouraged to send comments electronically (see ADDRESSES, below).</dates>
+        <contact>For information about this request for comments, contact Kerrie Leslie, Office of Management and Budget, New Executive Office Building, Washington, DC 20503, telephone (202) 395- 1093, email Statistical_Directives@omb.eop.gov with the subject "More Info: Directive No. 3."</contact>
+        <tocSubject1>Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators:
+</tocSubject1>
+        <tocDoc>Proposal to Change Timing of Public Comments by Employees of the Executive Branch, </tocDoc>
+        <emailRef>Statistical_Directives@omb.eop.gov</emailRef>
+        <urlRef>https://www.federalregister.gov/</urlRef>
+        <urlRef>https://www.whitehouse.gov/omb/</urlRef>
+        <urlRef>www.federalregister.gov/documents/2019/04/11/2019-07172/statistical-policy-directive-no-3-compilation-release-and-evaluation-of-principal-federal-economic</urlRef>
+        <urlRef>www.regulations.gov</urlRef>
+        <urlRef>www.regulations.gov/document/OMB-2019-0001-0001/comment</urlRef>
+        <urlRef>www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/statpolicy/dir_3_fr_09251985.pdf</urlRef>
+    </extension>
+    <relatedItem type="host" ID="P0b002ee1c001a055" xlink:href="https://www.govinfo.gov/metadata/pkg/FR-2023-08-25/mods.xml">
+        <titleInfo>
+            <title>Federal Register</title>
+            <partNumber>Vol. 88, no. 164</partNumber>
+        </titleInfo>
+        <originInfo>
+            <publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+            <dateIssued encoding="w3cdtf">2023-08-25</dateIssued>
+            <issuance>continuing</issuance>
+            <frequency>daily</frequency>
+        </originInfo>
+        <physicalDescription>
+            <note type="source content type">deposited</note>
+            <digitalOrigin>born digital</digitalOrigin>
+            <extent>441 p.</extent>
+        </physicalDescription>
+        <tableOfContents xlink:href="https://www.govinfo.gov/app/frtoc/2023-08-25">    
+		  Table of Contents: 
+		</tableOfContents>
+        <classification authority="sudocs">AE 2.7:</classification>
+        <classification authority="sudocs">GS 4.107:</classification>
+        <classification authority="sudocs">AE 2.106:</classification>
+        <classification authority="lcc">KF70.A2</classification>
+        <identifier type="uri">https://www.govinfo.gov/app/details/FR-2023-08-25</identifier>
+        <identifier type="local">P0b002ee1c001a055</identifier>
+        <identifier type="issn">0097-6326</identifier>
+        <identifier type="issn">0042-1219</identifier>
+        <identifier type="issn">0364-1406</identifier>
+        <identifier type="stock number">769-004-00000-9</identifier>
+        <identifier type="ILS system id">000582072</identifier>
+        <identifier type="former identifier">f:fr25au23</identifier>
+        <location>
+            <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2023-08-25</url>
+            <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2023-08-25/pdf/FR-2023-08-25.pdf</url>
+            <url displayLabel="XML rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2023-08-25/xml/FR-2023-08-25.xml</url>
+        </location>
+        <accessCondition type="GPO scope determination">fdlp</accessCondition>
+        <part type="issue">
+            <extent unit="pages">
+                <start>58065</start>
+                <end>58494</end>
+            </extent>
+        </part>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DGPO</recordContentSource>
+            <recordCreationDate encoding="w3cdtf">2023-08-25</recordCreationDate>
+            <recordChangeDate encoding="w3cdtf">2024-05-29</recordChangeDate>
+            <recordIdentifier source="DGPO">FR-2023-08-25</recordIdentifier>
+            <recordOrigin>machine generated</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <extension>
+            <docClass>FR</docClass>
+            <accessId>FR-2023-08-25</accessId>
+            <volume>88</volume>
+            <issue>164</issue>
+        </extension>
+    </relatedItem>
+</mods>

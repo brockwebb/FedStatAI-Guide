@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-E8-4570">
+    <name type="corporate">
+        <namePart>United States Government Publishing Office</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+            <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>National Archives and Records Administration</namePart>
+        <namePart>Office of the Federal Register</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+        <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+        <collectionCode>FR</collectionCode>
+        <category>Regulatory Information</category>
+        <waisDatabaseName>2008_register</waisDatabaseName>
+        <branch>executive</branch>
+        <dateIngested>2010-09-23</dateIngested>
+    </extension>
+    <genre authority="marcgt">article</genre>
+    <titleInfo>
+        <title>Statistical Policy Directive No. 4: Release and Dissemination of Statistical Products Produced by Federal Statistical Agencies</title>
+        <partNumber>Part V</partNumber>
+        <partName>Notices</partName>
+    </titleInfo>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2008-03-07/html/E8-4570.htm">
+        <identifier type="FDsys Unique ID">D09002ee1c80946ea</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2008-03-07/pdf/E8-4570.pdf">
+        <identifier type="FDsys Unique ID">D09002ee1c8094796</identifier>
+    </relatedItem>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Office of Management and Budget</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <abstract>Under 44 U.S.C. 3504(e), the Office of Management and Budget (OMB) is issuing a new Statistical Policy Directive for the release and dissemination of statistical products produced by Federal statistical agencies. On August 1, 2007, OMB published a Notice of solicitation of comments on a draft of this directive in the Federal Register (72 FR 42266, August 1, 2007). A dozen respondents sent comments in response to the notice. Careful consideration was given to all comments. The disposition of the comments as well as the final directive are presented in the SUPPLEMENTARY INFORMATION section below. In its role as coordinator of the Federal statistical system, 44 U.S.C. 3504(e) requires OMB, among other responsibilities, to ensure the efficiency and effectiveness of the system as well as the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes. It also requires OMB to develop and oversee the implementation of Governmentwide policies, principles, standards, and guidelines concerning the presentation and dissemination of statistical information. The Information Quality Act (Pub. L. 106-554, Division C, title V, Sec. 515, Dec. 21, 2000; 114 Stat. 2763A-153 to 2763A-154; 44 U.S.C. Section 3516 note) similarly requires OMB, as well as all other Federal agencies, to maximize the quality, objectivity, utility, and integrity of information, including statistical information, provided to the public. To operate efficiently and effectively, our Nation relies on the flow of objective, credible statistics to support the decisions of governments, businesses, households, and other organizations. Any loss of trust in the integrity of the Federal statistical system and its products could lessen respondent cooperation with Federal statistical surveys, decrease the quality of statistical system products, and foster uncertainty about the validity of measures our Nation uses to monitor and assess its performance and progress. To further support the quality and integrity of Federal statistical information, OMB is issuing a new Statistical Policy Directive designed to preserve and enhance the objectivity and transparency, in fact and in perception, of the processes used to release and disseminate the statistical products of Federal statistical agencies. The procedures in the directive are intended to ensure that statistical data releases adhere to data quality standards through equitable, policy-neutral, and timely release of information to the general public. Additional discussion of the directive and the directive itself may be found in the SUPPLEMENTARY INFORMATION section below.</abstract>
+    <identifier type="FR citation">73 FR 12622</identifier>
+    <identifier type="uri">https://www.govinfo.gov/app/details/FR-2008-03-07/E8-4570</identifier>
+    <identifier type="FR Doc No.">E8-4570</identifier>
+    <identifier type="former granule identifier">fr07mr08-157</identifier>
+    <identifier type="billing code">3110-01-P</identifier>
+    <location>
+        <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2008-03-07/E8-4570</url>
+        <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/FR-2008-03-07/html/E8-4570.htm</url>
+        <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/FR-2008-03-07/pdf/E8-4570.pdf</url>
+    </location>
+    <physicalDescription>
+        <extent>5 p.</extent>
+    </physicalDescription>
+    <part type="Part V">
+        <extent unit="pages">
+            <start>12622</start>
+            <end>12626</end>
+        </extent>
+    </part>
+    <identifier type="preferred citation">73 FR 12622</identifier>
+    <extension>
+        <searchTitle>Statistical Policy Directive No. 4: Release and Dissemination of Statistical Products Produced by Federal Statistical Agencies; Federal Register Vol. 73, Issue </searchTitle>
+        <granuleClass>NOTICE</granuleClass>
+        <accessId>E8-4570</accessId>
+        <partNumber>V</partNumber>
+        <agency order="1">OFFICE OF MANAGEMENT AND BUDGET</agency>
+        <effectiveDate>2008-04-07</effectiveDate>
+        <billingCode>3110-01-P</billingCode>
+        <frDocNumber>E8-4570</frDocNumber>
+        <action>Notice of Final Decision.</action>
+        <summary>Under 44 U.S.C. 3504(e), the Office of Management and Budget (OMB) is issuing a new Statistical Policy Directive for the release and dissemination of statistical products produced by Federal statistical agencies. On August 1, 2007, OMB published a Notice of solicitation of comments on a draft of this directive in the Federal Register (72 FR 42266, August 1, 2007). A dozen respondents sent comments in response to the notice. Careful consideration was given to all comments. The disposition of the comments as well as the final directive are presented in the SUPPLEMENTARY INFORMATION section below. In its role as coordinator of the Federal statistical system, 44 U.S.C. 3504(e) requires OMB, among other responsibilities, to ensure the efficiency and effectiveness of the system as well as the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes. It also requires OMB to develop and oversee the implementation of Governmentwide policies, principles, standards, and guidelines concerning the presentation and dissemination of statistical information. The Information Quality Act (Pub. L. 106-554, Division C, title V, Sec. 515, Dec. 21, 2000; 114 Stat. 2763A-153 to 2763A-154; 44 U.S.C. Section 3516 note) similarly requires OMB, as well as all other Federal agencies, to maximize the quality, objectivity, utility, and integrity of information, including statistical information, provided to the public. To operate efficiently and effectively, our Nation relies on the flow of objective, credible statistics to support the decisions of governments, businesses, households, and other organizations. Any loss of trust in the integrity of the Federal statistical system and its products could lessen respondent cooperation with Federal statistical surveys, decrease the quality of statistical system products, and foster uncertainty about the validity of measures our Nation uses to monitor and assess its performance and progress. To further support the quality and integrity of Federal statistical information, OMB is issuing a new Statistical Policy Directive designed to preserve and enhance the objectivity and transparency, in fact and in perception, of the processes used to release and disseminate the statistical products of Federal statistical agencies. The procedures in the directive are intended to ensure that statistical data releases adhere to data quality standards through equitable, policy-neutral, and timely release of information to the general public. Additional discussion of the directive and the directive itself may be found in the SUPPLEMENTARY INFORMATION section below.</summary>
+        <dates>Effective Date: The effective date of this Directive is April 7, 2008.</dates>
+        <contact>Paul Bugg, 10201 New Executive Office</contact>
+        <tocDoc>Statistical Policy Directive No. 4;  Release and Dissemination of Statistical Products Produced by Federal Statistical Agencies, </tocDoc>
+        <emailRef>DisseminationDirective@omb.eop.gov</emailRef>
+        <emailRef>pbugg@omb.eop.gov</emailRef>
+        <urlRef>www.omb.gov/inforeg/ssp/dissemination</urlRef>
+    </extension>
+    <relatedItem type="host" ID="P0b002ee1809b3a2c" xlink:href="https://www.govinfo.gov/metadata/pkg/FR-2008-03-07/mods.xml">
+        <titleInfo>
+            <title>Federal Register</title>
+            <partNumber>Vol. 73, no. 46</partNumber>
+        </titleInfo>
+        <originInfo>
+            <publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+            <dateIssued encoding="w3cdtf">2008-03-07</dateIssued>
+            <issuance>continuing</issuance>
+            <frequency>daily</frequency>
+        </originInfo>
+        <physicalDescription>
+            <note type="source content type">deposited</note>
+            <digitalOrigin>born digital</digitalOrigin>
+            <extent>376 p.</extent>
+        </physicalDescription>
+        <tableOfContents xlink:href="https://www.govinfo.gov/app/frtoc/2008-03-07">    
+		  Table of Contents: 
+		</tableOfContents>
+        <classification authority="sudocs">AE 2.7:</classification>
+        <classification authority="sudocs">GS 4.107:</classification>
+        <classification authority="sudocs">AE 2.106:</classification>
+        <classification authority="lcc">KF70.A2</classification>
+        <identifier type="uri">https://www.govinfo.gov/app/details/FR-2008-03-07</identifier>
+        <identifier type="local">P0b002ee1809b3a2c</identifier>
+        <identifier type="issn">0097-6326</identifier>
+        <identifier type="issn">0042-1219</identifier>
+        <identifier type="issn">0364-1406</identifier>
+        <identifier type="stock number">769-004-00000-9</identifier>
+        <identifier type="ILS system id">000582072</identifier>
+        <identifier type="former identifier">f:fr07mr08</identifier>
+        <location>
+            <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2008-03-07</url>
+            <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2008-03-07/pdf/FR-2008-03-07.pdf</url>
+            <url displayLabel="XML rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2008-03-07/xml/FR-2008-03-07.xml</url>
+        </location>
+        <accessCondition type="GPO scope determination">fdlp</accessCondition>
+        <part type="issue">
+            <extent unit="pages">
+                <start>12259</start>
+                <end>12626</end>
+            </extent>
+        </part>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DGPO</recordContentSource>
+            <recordCreationDate encoding="w3cdtf">2010-09-23</recordCreationDate>
+            <recordChangeDate encoding="w3cdtf">2024-06-05</recordChangeDate>
+            <recordIdentifier source="DGPO">FR-2008-03-07</recordIdentifier>
+            <recordOrigin>machine generated</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <extension>
+            <docClass>FR</docClass>
+            <accessId>FR-2008-03-07</accessId>
+            <volume>73</volume>
+            <issue>46</issue>
+        </extension>
+    </relatedItem>
+</mods>

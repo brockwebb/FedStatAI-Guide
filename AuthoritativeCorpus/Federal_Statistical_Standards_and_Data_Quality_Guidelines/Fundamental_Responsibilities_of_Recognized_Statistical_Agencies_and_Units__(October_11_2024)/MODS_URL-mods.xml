@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-2024-23536">
+    <name type="corporate">
+        <namePart>United States Government Publishing Office</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+            <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>National Archives and Records Administration</namePart>
+        <namePart>Office of the Federal Register</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+        <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+        <collectionCode>FR</collectionCode>
+        <category>Regulatory Information</category>
+        <waisDatabaseName>2024_register</waisDatabaseName>
+        <branch>executive</branch>
+        <dateIngested>2024-10-11</dateIngested>
+    </extension>
+    <genre authority="marcgt">article</genre>
+    <titleInfo>
+        <title>Fundamental Responsibilities of Recognized Statistical Agencies and Units</title>
+        <partName>Rules and Regulations</partName>
+    </titleInfo>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2024-10-11/html/2024-23536.htm">
+        <identifier type="FDsys Unique ID">D09002ee1cc3e07c5</identifier>
+    </relatedItem>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/FR-2024-10-11/pdf/2024-23536.pdf">
+        <identifier type="FDsys Unique ID">D09002ee1cc4a2f3e</identifier>
+    </relatedItem>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Office of Management and Budget</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">originator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">org</roleTerm>
+        </role>
+        <description>United States Government Agency or Subagency</description>
+    </name>
+    <abstract>Public trust in Federal statistics is essential to their value and use in informing decisions across public and private sectors. To promote public trust in the statistical agencies and units that produce Federal statistics, the Office of Management and Budget issues this final rule pursuant to Title III of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) to provide direction to Recognized Statistical Agencies and Units (RSAUs) in carrying out their four fundamental responsibilities: produce and disseminate relevant and timely statistical information, conduct credible and accurate statistical activities, conduct objective statistical activities, and protect the trust of information providers by ensuring the confidentiality and exclusive statistical use of their responses. This final rule also provides direction to other Federal agencies to enable, support, and facilitate RSAUs in carrying out these four fundamental responsibilities.</abstract>
+    <identifier type="FR citation">89 FR 82453</identifier>
+    <identifier type="uri">https://www.govinfo.gov/app/details/FR-2024-10-11/2024-23536</identifier>
+    <identifier type="FR Doc No.">2024-23536</identifier>
+    <identifier type="former granule identifier">fr11oc24-1</identifier>
+    <identifier type="Regulation ID Number">RIN 0348-AB81</identifier>
+    <identifier type="billing code">3110-01-P</identifier>
+    <location>
+        <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2024-10-11/2024-23536</url>
+        <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/FR-2024-10-11/html/2024-23536.htm</url>
+        <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/FR-2024-10-11/pdf/2024-23536.pdf</url>
+    </location>
+    <subject>
+        <topic>Statistics</topic>
+    </subject>
+    <physicalDescription>
+        <extent>30 p.</extent>
+    </physicalDescription>
+    <part type="Rules and Regulations">
+        <extent unit="pages">
+            <start>82453</start>
+            <end>82482</end>
+        </extent>
+    </part>
+    <identifier type="preferred citation">89 FR 82453</identifier>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Code of Federal Regulations</title>
+            <partNumber>Title 5 Part 1321</partNumber>
+        </titleInfo>
+        <identifier type="CFR citation">5 CFR Part  1321</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>Regulation Identification Number 0348-AB81</title>
+        </titleInfo>
+        <identifier type="regulation ID number">RIN 0348-AB81</identifier>
+    </relatedItem>
+    <extension>
+        <searchTitle>Fundamental Responsibilities of Recognized Statistical Agencies and Units; Federal Register Vol. 89, Issue </searchTitle>
+        <granuleClass>RULE</granuleClass>
+        <accessId>2024-23536</accessId>
+        <agency order="1">OFFICE OF MANAGEMENT AND BUDGET</agency>
+        <effectiveDate>2024-12-10</effectiveDate>
+        <rin number="0348-AB81"/>
+        <billingCode>3110-01-P</billingCode>
+        <frDocNumber>2024-23536</frDocNumber>
+        <action>Final rule.</action>
+        <summary>Public trust in Federal statistics is essential to their value and use in informing decisions across public and private sectors. To promote public trust in the statistical agencies and units that produce Federal statistics, the Office of Management and Budget issues this final rule pursuant to Title III of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) to provide direction to Recognized Statistical Agencies and Units (RSAUs) in carrying out their four fundamental responsibilities: produce and disseminate relevant and timely statistical information, conduct credible and accurate statistical activities, conduct objective statistical activities, and protect the trust of information providers by ensuring the confidentiality and exclusive statistical use of their responses. This final rule also provides direction to other Federal agencies to enable, support, and facilitate RSAUs in carrying out these four fundamental responsibilities.</summary>
+        <dates>Effective date: December 10, 2024.</dates>
+        <contact>Kerrie Leslie, 202-395-5898, TrustRegulation@omb.eop.gov.</contact>
+        <cfr title="5">
+                                    
+            <part number="1321"/>
+                                    
+            <subject>Statistics</subject>
+                                
+        </cfr>
+        <tocDoc>Fundamental Responsibilities of Recognized Statistical Agencies and Units, </tocDoc>
+        <emailRef>TrustRegulation@omb.eop.gov</emailRef>
+        <urlRef>https://bipartisanpolicy.org/wp-content/uploads/2019/03/Full-Report-The-Promise-of-Evidence-Based-Policymaking-Report-of-the-Comission-on-Evidence-based-Policymaking.pdf</urlRef>
+        <urlRef>https://ec.europa.eu/eurostat/web/products-catalogues/-/KS-02-18-142</urlRef>
+        <urlRef>https://unstats.un.org/fpos/</urlRef>
+        <urlRef>https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice</urlRef>
+        <urlRef>https://www.census.gov/history/pdf/wright-hunt.pdf</urlRef>
+        <urlRef>https://www.congress.gov/115/plaws/publ435/PLAW-115publ435.pdf</urlRef>
+        <urlRef>https://www.congress.gov/congressional-report/115th-congress/house-report/411</urlRef>
+        <urlRef>https://www.federalregister.gov/documents/2023/08/18/2023-17664/fundamental-responsibilities-of-recognized-statistical-agencies-and-units</urlRef>
+        <urlRef>https://www.govinfo.gov/content/pkg/FR-1997-06-27/pdf/FR-1997-06-27.pdf</urlRef>
+        <urlRef>https://www.govinfo.gov/content/pkg/FR-2007-06-15/pdf/E7-11542.pdf</urlRef>
+        <urlRef>https://www.govinfo.gov/content/pkg/FR-2008-03-07/pdf/E8-4570.pdf</urlRef>
+        <urlRef>https://www.govinfo.gov/content/pkg/FR-2014-12-02/pdf/2014-28326.pdf</urlRef>
+        <urlRef>https://www.govinfo.gov/content/pkg/FR-2023-08-18/pdf/2023-17664.pdf</urlRef>
+        <urlRef>https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf</urlRef>
+        <urlRef>https://www.nap.edu/read/25885/</urlRef>
+        <urlRef>https://www.opm.gov/policy-data-oversight/data-analysis-documentation/federal-employment-reports/reports-publications/sizing-up-the-executive-branch-2016.pdf</urlRef>
+        <urlRef>https://www.plainlanguage.gov/guidelines/conversational/shall-and-must</urlRef>
+        <urlRef>https://www.regulations.gov/comment/OMB-2023-0015-0019</urlRef>
+        <urlRef>https://www.regulations.gov/comment/OMB-2023-0015-0022</urlRef>
+        <urlRef>https://www.regulations.gov/docket/OMB-2023-0015</urlRef>
+        <urlRef>https://www.StatsPolicy.gov</urlRef>
+        <urlRef>https://www.StatsPolicy.gov/about/#statistical-agencies</urlRef>
+        <urlRef>https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf</urlRef>
+        <urlRef>https://www.whitehouse.gov/wp-content/uploads/2024/02/statistical-programs-20212022.pdf</urlRef>
+        <urlRef>https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-12_0.pdf</urlRef>
+        <urlRef>StatsPolicy.gov</urlRef>
+    </extension>
+    <relatedItem type="host" ID="P0b002ee1cc43fe52" xlink:href="https://www.govinfo.gov/metadata/pkg/FR-2024-10-11/mods.xml">
+        <titleInfo>
+            <title>Federal Register</title>
+            <partNumber>Vol. 89, no. 198</partNumber>
+        </titleInfo>
+        <originInfo>
+            <publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+            <dateIssued encoding="w3cdtf">2024-10-11</dateIssued>
+            <issuance>continuing</issuance>
+            <frequency>daily</frequency>
+        </originInfo>
+        <physicalDescription>
+            <note type="source content type">deposited</note>
+            <digitalOrigin>born digital</digitalOrigin>
+            <extent>486 p.</extent>
+        </physicalDescription>
+        <tableOfContents xlink:href="https://www.govinfo.gov/app/frtoc/2024-10-11">    
+		  Table of Contents: 
+		</tableOfContents>
+        <classification authority="sudocs">AE 2.7:</classification>
+        <classification authority="sudocs">GS 4.107:</classification>
+        <classification authority="sudocs">AE 2.106:</classification>
+        <classification authority="lcc">KF70.A2</classification>
+        <identifier type="uri">https://www.govinfo.gov/app/details/FR-2024-10-11</identifier>
+        <identifier type="local">P0b002ee1cc43fe52</identifier>
+        <identifier type="issn">0097-6326</identifier>
+        <identifier type="issn">0042-1219</identifier>
+        <identifier type="issn">0364-1406</identifier>
+        <identifier type="stock number">769-004-00000-9</identifier>
+        <identifier type="ILS system id">000582072</identifier>
+        <identifier type="former identifier">f:fr11oc24</identifier>
+        <location>
+            <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/FR-2024-10-11</url>
+            <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2024-10-11/pdf/FR-2024-10-11.pdf</url>
+            <url displayLabel="XML rendition" access="raw object">https://www.govinfo.gov/content/pkg/FR-2024-10-11/xml/FR-2024-10-11.xml</url>
+        </location>
+        <accessCondition type="GPO scope determination">fdlp</accessCondition>
+        <part type="issue">
+            <extent unit="pages">
+                <start>82453</start>
+                <end>82929</end>
+            </extent>
+        </part>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DGPO</recordContentSource>
+            <recordCreationDate encoding="w3cdtf">2024-10-11</recordCreationDate>
+            <recordChangeDate encoding="w3cdtf">2024-10-11</recordChangeDate>
+            <recordIdentifier source="DGPO">FR-2024-10-11</recordIdentifier>
+            <recordOrigin>machine generated</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <extension>
+            <docClass>FR</docClass>
+            <accessId>FR-2024-10-11</accessId>
+            <volume>89</volume>
+            <issue>198</issue>
+        </extension>
+    </relatedItem>
+</mods>

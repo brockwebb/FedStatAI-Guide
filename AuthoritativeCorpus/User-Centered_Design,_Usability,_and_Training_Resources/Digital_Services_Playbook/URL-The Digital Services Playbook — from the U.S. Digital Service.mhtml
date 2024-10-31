@@ -1,0 +1,1761 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://playbook.usds.gov/
+Subject: =?utf-8?Q?The=20Digital=20Services=20Playbook=20=E2=80=94=20from=20the=20?=
+ =?utf-8?Q?U.S.=20Digital=20Service?=
+Date: Thu, 31 Oct 2024 07:40:39 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--5oU2JHd7LFdS9vzqv2ZRztoadkHMgVoKdzoT4KfLTK----"
+
+
+------MultipartBoundary--5oU2JHd7LFdS9vzqv2ZRztoadkHMgVoKdzoT4KfLTK----
+Content-Type: text/html
+Content-ID: <frame-E9C9125ABD7E302C7BEA8812471D333F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://playbook.usds.gov/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+  <title>The Digital Services Playbook =E2=80=94 from the U.S. Digital Serv=
+ice</title>
+ =20
+  <meta name=3D"viewport" content=3D"initial-scale=3D1,maximum-scale=3D1,us=
+er-scalable=3Dno">
+  <link href=3D"https://fonts.googleapis.com/css?family=3DMerriweather:400,=
+300,700|Source+Sans+Pro:400,700" rel=3D"stylesheet" type=3D"text/css">
+  <link rel=3D"shortcut icon" href=3D"https://playbook.usds.gov/assets/imag=
+es/favicon.ico" type=3D"image/x-icon">
+  <link rel=3D"icon" type=3D"image/png" href=3D"https://playbook.usds.gov/a=
+ssets/images/favicon-32x32.png" sizes=3D"32x32">
+  <link rel=3D"icon" type=3D"image/png" href=3D"https://playbook.usds.gov/a=
+ssets/images/favicon-16x16.png" sizes=3D"16x16">
+  <link href=3D"https://playbook.usds.gov/assets/css/styles.css" rel=3D"sty=
+lesheet">
+</head>
+
+<body>
+
+<div id=3D"navigation_bar" style=3D"">
+   <div class=3D"outer_container">
+    <div class=3D"inner_container">
+
+      <a href=3D"https://playbook.usds.gov/#introduction"><h3>Digital Servi=
+ces Playbook</h3></a>
+      <ul class=3D"nav">
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay1" title=3D"View Play 1: Understand what people need">1</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay2" title=3D"View Play 2: Address the whole experience, from start to fin=
+ish">2</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay3" title=3D"View Play 3: Make it simple and intuitive">3</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay4" title=3D"View Play 4: Build the service using agile and iterative pra=
+ctices">4</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay5" title=3D"View Play 5: Structure budgets and contracts to support deli=
+very">5</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay6" title=3D"View Play 6: Assign one leader and hold that person accounta=
+ble">6</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay7" title=3D"View Play 7: Bring in experienced teams">7</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay8" title=3D"View Play 8: Choose a modern technology stack">8</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay9" title=3D"View Play 9: Deploy in a flexible hosting environment">9</a>=
+</li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay10" title=3D"View Play 10: Automate testing and deployments">10</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay11" title=3D"View Play 11: Manage security and privacy through reusable =
+processes">11</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay12" title=3D"View Play 12: Use data to drive decisions">12</a></li>
+       =20
+          <li class=3D"play_square"><a href=3D"https://playbook.usds.gov/#p=
+lay13" title=3D"View Play 13: Default to open">13</a></li>
+       =20
+      </ul>
+      <div id=3D"menu_icon">
+        <a href=3D"https://playbook.usds.gov/#plays_index_anchor" title=3D"=
+Return to Index"></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id=3D"introduction">
+  <div class=3D"outer_container">
+    <div class=3D"inner_container">
+      <a id=3D"usds_logo" href=3D"https://www.usds.gov/" target=3D"_blank" =
+title=3D"Link to the United States Digital Service"><img src=3D"https://pla=
+ybook.usds.gov/assets/images/usds-logo-seal.png" alt=3D"Logo of the United =
+States Digital Service"></a>
+     =20
+      <h1 id=3D"digital-services-playbook">Digital Services Playbook</h1>
+
+<p>The American people expect to interact with government through digital c=
+hannels such as websites, email, and mobile applications. By building digit=
+al services that meet their needs, we can make the delivery of our policy a=
+nd programs more effective.</p>
+
+<p>Today, too many of our digital services projects do not work well, are d=
+elivered late, or are over budget. To increase the success rate of these pr=
+ojects, the U.S. Government needs a new approach. We created a playbook of =
+13 key =E2=80=9Cplays=E2=80=9D drawn from successful practices from the pri=
+vate sector and government that, if followed together, will help government=
+ build effective digital services.</p>
+
+      <div class=3D"button">
+        <a href=3D"https://playbook.usds.gov/#plays_index_anchor" title=3D"=
+View the Plays">See the plays</a>
+      </div>
+      <div class=3D"button">
+        <a href=3D"https://github.com/whitehouse/playbook#readme" title=3D"=
+Visit Github to Improve This Content">Help improve this content</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id=3D"plays_index">
+  <div class=3D"outer_container">
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"plays_index_anchor"></a>
+      <h2>Digital Service Plays</h2>
+      <div class=3D"columns">
+        <ol>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play1" title=3D"View Pl=
+ay 1">Understand what people need</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play2" title=3D"View Pl=
+ay 2">Address the whole experience, from start to finish</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play3" title=3D"View Pl=
+ay 3">Make it simple and intuitive</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play4" title=3D"View Pl=
+ay 4">Build the service using agile and iterative practices</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play5" title=3D"View Pl=
+ay 5">Structure budgets and contracts to support delivery</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play6" title=3D"View Pl=
+ay 6">Assign one leader and hold that person accountable</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play7" title=3D"View Pl=
+ay 7">Bring in experienced teams</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play8" title=3D"View Pl=
+ay 8">Choose a modern technology stack</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play9" title=3D"View Pl=
+ay 9">Deploy in a flexible hosting environment</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play10" title=3D"View P=
+lay 10">Automate testing and deployments</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play11" title=3D"View P=
+lay 11">Manage security and privacy through reusable processes</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play12" title=3D"View P=
+lay 12">Use data to drive decisions</a></li>
+       =20
+          <li><a href=3D"https://playbook.usds.gov/#play13" title=3D"View P=
+lay 13">Default to open</a></li>
+       =20
+        </ol>
+      </div>
+      <div class=3D"button">
+        <a href=3D"https://playbook.usds.gov/#play1" title=3D"View the In D=
+etail">In detail</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id=3D"plays" class=3D"outer_container">
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play1"></a>
+      <h6>PLAY 1</h6>
+      <h2 class=3D"display">Understand what people need</h2>
+
+      <p>We must begin digital projects by exploring and pinpointing the ne=
+eds of the people who will use the service, and the ways the service will f=
+it into their lives. Whether the users are members of the public or governm=
+ent employees, policy makers must include real people in their design proce=
+ss from the beginning. The needs of people =E2=80=94 not constraints of gov=
+ernment structures or silos =E2=80=94 should inform technical and design de=
+cisions. We need to continually test the products we build with real people=
+ to keep us honest about what is important.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Early in the project, spend time with current and prospective users o=
+f the service</li>
+  <li>Use a range of qualitative and quantitative research methods to deter=
+mine people=E2=80=99s goals, needs, and behaviors; be thoughtful about the =
+time spent</li>
+  <li>Test prototypes of solutions with real people, in the field if possib=
+le</li>
+  <li>Document the findings about user goals, needs, behaviors, and prefere=
+nces</li>
+  <li>Share findings with the team and agency leadership</li>
+  <li>Create a prioritized list of tasks the user is trying to accomplish, =
+also known as =E2=80=9Cuser stories=E2=80=9D</li>
+  <li>As the digital service is being built, regularly test it with potenti=
+al users to ensure it meets people=E2=80=99s needs</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>Who are your primary users?</li>
+  <li>What user needs will this service address?</li>
+  <li>Why does the user want or need this service?</li>
+  <li>Which people will have the most difficulty with the service?</li>
+  <li>Which research methods were used?</li>
+  <li>What were the key findings?</li>
+  <li>How were the findings documented? Where can future team members acces=
+s the documentation?</li>
+  <li>How often are you testing with real people?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play2"></a>
+      <h6>PLAY 2</h6>
+      <h2 class=3D"display">Address the whole experience, from start to fin=
+ish</h2>
+
+      <p>We need to understand the different ways people will interact with=
+ our services, including the actions they take online, through a mobile app=
+lication, on a phone, or in person. Every encounter =E2=80=94 whether it=E2=
+=80=99s online or offline =E2=80=94 should move the user closer towards the=
+ir goal.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Understand the different points at which people will interact with th=
+e service =E2=80=93 both online and in person</li>
+  <li>Identify pain points in the current way users interact with the servi=
+ce, and prioritize these according to user needs</li>
+  <li>Design the digital parts of the service so that they are integrated w=
+ith the offline touch points people use to interact with the service</li>
+  <li>Develop metrics that will measure how well the service is meeting use=
+r needs at each step of the service</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>What are the different ways (both online and offline) that people cur=
+rently accomplish the task the digital service is designed to help with?</l=
+i>
+  <li>Where are user pain points in the current way people accomplish the t=
+ask?</li>
+  <li>Where does this specific project fit into the larger way people curre=
+ntly obtain the service being offered?</li>
+  <li>What metrics will best indicate how well the service is working for i=
+ts users?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play3"></a>
+      <h6>PLAY 3</h6>
+      <h2 class=3D"display">Make it simple and intuitive</h2>
+
+      <p>Using a government service shouldn=E2=80=99t be stressful, confusi=
+ng, or daunting. It=E2=80=99s our job to build services that are simple and=
+ intuitive enough that users succeed the first time, unaided.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Use a simple and flexible design style guide for the service. Use the=
+ <a href=3D"https://playbook.cio.gov/designstandards">U.S. Web Design Syste=
+m</a> as a default</li>
+  <li>Use the design style guide consistently for related digital services<=
+/li>
+  <li>Give users clear information about where they are in each step of the=
+ process</li>
+  <li>Follow accessibility best practices to ensure all people can use the =
+service</li>
+  <li>Provide users with a way to exit and return later to complete the pro=
+cess</li>
+  <li>Use language that is familiar to the user and easy to understand</li>
+  <li>Use language and design consistently throughout the service, includin=
+g online and offline touch points</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>What primary tasks are the user trying to accomplish?</li>
+  <li>Is the language as plain and universal as possible?</li>
+  <li>What languages is your service offered in?</li>
+  <li>If a user needs help while using the service, how do they go about ge=
+tting it?</li>
+  <li>How does the service=E2=80=99s design visually relate to other govern=
+ment services?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play4"></a>
+      <h6>PLAY 4</h6>
+      <h2 class=3D"display">Build the service using agile and iterative pra=
+ctices</h2>
+
+      <p>We should use an incremental, fast-paced style of software develop=
+ment to reduce the risk of failure. We want to get working software into us=
+ers=E2=80=99 hands as early as possible to give the design and development =
+team opportunities to adjust based on user feedback about the service. A cr=
+itical capability is being able to automatically test and deploy the servic=
+e so that new features can be added often and be put into production easily=
+.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Ship a functioning =E2=80=9Cminimum viable product=E2=80=9D (MVP) tha=
+t solves a core user need as soon as possible, no longer than three months =
+from the beginning of the project, using a =E2=80=9Cbeta=E2=80=9D or =E2=80=
+=9Ctest=E2=80=9D period if needed</li>
+  <li>Run usability tests frequently to see how well the service works and =
+identify improvements that should be made</li>
+  <li>Ensure the individuals building the service communicate closely using=
+ techniques such as launch meetings, strategy rooms, daily standups, and te=
+am chat tools</li>
+  <li>Keep delivery teams small and focused; limit organizational layers th=
+at separate these teams from the business owners</li>
+  <li>Release features and improvements multiple times each month</li>
+  <li>Create a prioritized list of features and bugs, also known as the =E2=
+=80=9Cfeature backlog=E2=80=9D and =E2=80=9Cbug backlog=E2=80=9D</li>
+  <li>Use a source code version control system</li>
+  <li>Give the entire project team access to the issue tracker and version =
+control system</li>
+  <li>Use code reviews to ensure quality</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>How long did it take to ship the MVP? If it hasn=E2=80=99t shipped ye=
+t, when will it?</li>
+  <li>How long does it take for a production deployment?</li>
+  <li>How many days or weeks are in each iteration/sprint?</li>
+  <li>Which version control system is being used?</li>
+  <li>How are bugs tracked and tickets issued? What tool is used?</li>
+  <li>How is the feature backlog managed? What tool is used?</li>
+  <li>How often do you review and reprioritize the feature and bug backlog?=
+</li>
+  <li>How do you collect user feedback during development? How is that feed=
+back used to improve the service?</li>
+  <li>At each stage of usability testing, which gaps were identified in add=
+ressing user needs?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play5"></a>
+      <h6>PLAY 5</h6>
+      <h2 class=3D"display">Structure budgets and contracts to support deli=
+very</h2>
+
+      <p>To improve our chances of success when contracting out development=
+ work, we need to work with experienced budgeting and contracting officers.=
+ In cases where we use third parties to help build a service, a well-define=
+d contract can facilitate good development practices like conducting a rese=
+arch and prototyping phase, refining product requirements as the service is=
+ built, evaluating open source alternatives, ensuring frequent delivery mil=
+estones, and allowing the flexibility to purchase cloud computing resources=
+.</p>
+
+<p><a href=3D"https://techfarhub.cio.gov/handbook/">The TechFAR Handbook</a=
+> provides a detailed explanation of the flexibilities in the Federal Acqui=
+sition Regulation (FAR) that can help agencies implement this play.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Budget includes research, discovery, and prototyping activities</li>
+  <li>Contract is structured to request frequent deliverables, not multi-mo=
+nth milestones</li>
+  <li>Contract is structured to hold vendors accountable to deliverables</l=
+i>
+  <li>Contract gives the government delivery team enough flexibility to adj=
+ust feature prioritization and delivery schedule as the project evolves</li=
+>
+  <li>Contract ensures open source solutions are evaluated when technology =
+choices are made</li>
+  <li>Contract specifies that software and data generated by third parties =
+remains under our control, and can be reused and released to the public as =
+appropriate and in accordance with the law</li>
+  <li>Contract allows us to use tools, services, and hosting from vendors w=
+ith a variety of pricing models, including fixed fees and variable models l=
+ike =E2=80=9Cpay-for-what-you-use=E2=80=9D services</li>
+  <li>Contract specifies a warranty period where defects uncovered by the p=
+ublic are addressed by the vendor at no additional cost to the government</=
+li>
+  <li>Contract includes a transition of services period and transition-out =
+plan</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>What is the scope of the project? What are the key deliverables?</li>
+  <li>What are the milestones? How frequent are they?</li>
+  <li>What are the performance metrics defined in the contract (e.g., respo=
+nse time, system uptime, time period to address priority issues)?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play6"></a>
+      <h6>PLAY 6</h6>
+      <h2 class=3D"display">Assign one leader and hold that person accounta=
+ble</h2>
+
+      <p>There must be a single product owner who has the authority and res=
+ponsibility to assign tasks and work elements; make business, product, and =
+technical decisions; and be accountable for the success or failure of the o=
+verall service. This product owner is ultimately responsible for how well t=
+he service meets the needs of its users, which is how a service should be e=
+valuated. The product owner is responsible for ensuring that features are b=
+uilt and managing the feature and bug backlogs.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>A product owner has been identified</li>
+  <li>All stakeholders agree that the product owner has the authority to as=
+sign tasks and make decisions about features and technical implementation d=
+etails</li>
+  <li>The product owner has a product management background with technical =
+experience to assess alternatives and weigh tradeoffs</li>
+  <li>The product owner has a work plan that includes budget estimates and =
+identifies funding sources</li>
+  <li>The product owner has a strong relationship with the contracting offi=
+cer</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>Who is the product owner?</li>
+  <li>What organizational changes have been made to ensure the product owne=
+r has sufficient authority over and support for the project?</li>
+  <li>What does it take for the product owner to add or remove a feature fr=
+om the service?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play7"></a>
+      <h6>PLAY 7</h6>
+      <h2 class=3D"display">Bring in experienced teams</h2>
+
+      <p>We need talented people working in government who have experience =
+creating modern digital services. This includes bringing in seasoned produc=
+t managers, engineers, and designers. When outside help is needed, our team=
+s should work with contracting officers who understand how to evaluate thir=
+d-party technical competency so our teams can be paired with contractors wh=
+o are good at both building and delivering effective digital services. The =
+makeup and experience requirements of the team will vary depending on the s=
+cope of the project.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Member(s) of the team have experience building popular, high-traffic =
+digital services</li>
+  <li>Member(s) of the team have experience designing mobile and web applic=
+ations</li>
+  <li>Member(s) of the team have experience using automated testing framewo=
+rks</li>
+  <li>Member(s) of the team have experience with modern development and ope=
+rations (DevOps) techniques like continuous integration and continuous depl=
+oyment</li>
+  <li>Member(s) of the team have experience securing digital services</li>
+  <li>A Federal contracting officer is on the internal team if a third part=
+y will be used for development work</li>
+  <li>A Federal budget officer is on the internal team or is a partner</li>
+  <li>The appropriate privacy, civil liberties, and/or legal advisor for th=
+e department or agency is a partner</li>
+</ol>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play8"></a>
+      <h6>PLAY 8</h6>
+      <h2 class=3D"display">Choose a modern technology stack</h2>
+
+      <p>The technology decisions we make need to enable development teams =
+to work efficiently and enable services to scale easily and cost-effectivel=
+y. Our choices for hosting infrastructure, databases, software frameworks, =
+programming languages and the rest of the technology stack should seek to a=
+void vendor lock-in and match what successful modern consumer and enterpris=
+e software companies would choose today. In particular, digital services te=
+ams should consider using open source, cloud-based, and commodity solutions=
+ across the technology stack, because of their widespread adoption and supp=
+ort by successful consumer and enterprise technology companies in the priva=
+te sector.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Choose software frameworks that are commonly used by private-sector c=
+ompanies creating similar services</li>
+  <li>Whenever possible, ensure that software can be deployed on a variety =
+of commodity hardware types</li>
+  <li>Ensure that each project has clear, understandable instructions for s=
+etting up a local development environment, and that team members can be qui=
+ckly added or removed from projects</li>
+  <li><a href=3D"https://www.obamawhitehouse.gov/sites/default/files/omb/as=
+sets/egov_docs/memotociostechnologyneutrality.pdf">Consider open source sof=
+tware solutions</a> at every layer of the stack</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>What is your development stack and why did you choose it?</li>
+  <li>Which databases are you using and why did you choose them?</li>
+  <li>How long does it take for a new team member to start contributing?</l=
+i>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play9"></a>
+      <h6>PLAY 9</h6>
+      <h2 class=3D"display">Deploy in a flexible hosting environment</h2>
+
+      <p>Our services should be deployed on flexible infrastructure, where =
+resources can be provisioned in real-time to meet spikes in traffic and use=
+r demand. Our digital services are crippled when we host them in data cente=
+rs that market themselves as =E2=80=9Ccloud hosting=E2=80=9D but require us=
+ to manage and maintain hardware directly. This outdated practice wastes ti=
+me, weakens our disaster recovery plans, and results in significantly highe=
+r costs.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Resources are provisioned on demand</li>
+  <li>Resources scale based on real-time user demand</li>
+  <li>Resources are provisioned through an API</li>
+  <li>Resources are available in multiple regions</li>
+  <li>We only pay for resources we use</li>
+  <li>Static assets are served through a content delivery network</li>
+  <li>Application is hosted on commodity hardware</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>Where is your service hosted?</li>
+  <li>What hardware does your service use to run?</li>
+  <li>What is the demand or usage pattern for your service?</li>
+  <li>What happens to your service when it experiences a surge in traffic o=
+r load?</li>
+  <li>How much capacity is available in your hosting environment?</li>
+  <li>How long does it take you to provision a new resource, like an applic=
+ation server?</li>
+  <li>How have you designed your service to scale based on demand?</li>
+  <li>How are you paying for your hosting infrastructure (e.g., by the minu=
+te, hourly, daily, monthly, fixed)?</li>
+  <li>Is your service hosted in multiple regions, availability zones, or da=
+ta centers?</li>
+  <li>In the event of a catastrophic disaster to a datacenter, how long wil=
+l it take to have the service operational?</li>
+  <li>What would be the impact of a prolonged downtime window?</li>
+  <li>What data redundancy do you have built into the system, and what woul=
+d be the impact of a catastrophic data loss?</li>
+  <li>How often do you need to contact a person from your hosting provider =
+to get resources or to fix an issue?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play10"></a>
+      <h6>PLAY 10</h6>
+      <h2 class=3D"display">Automate testing and deployments</h2>
+
+      <p>Today, developers write automated scripts that can verify thousand=
+s of scenarios in minutes and then deploy updated code into production envi=
+ronments multiple times a day. They use automated performance tests which s=
+imulate surges in traffic to identify performance bottlenecks. While manual=
+ tests and quality assurance are still necessary, automated tests provide c=
+onsistent and reliable protection against unintentional regressions, and ma=
+ke it possible for developers to confidently release frequent updates to th=
+e service.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Create automated tests that verify all user-facing functionality</li>
+  <li>Create unit and integration tests to verify modules and components</l=
+i>
+  <li>Run tests automatically as part of the build process</li>
+  <li>Perform deployments automatically with deployment scripts, continuous=
+ delivery services, or similar techniques</li>
+  <li>Conduct load and performance tests at regular intervals, including be=
+fore public launch</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>What percentage of the code base is covered by automated tests?</li>
+  <li>How long does it take to build, test, and deploy a typical bug fix?</=
+li>
+  <li>How long does it take to build, test, and deploy a new feature into p=
+roduction?</li>
+  <li>How frequently are builds created?</li>
+  <li>What test tools are used?</li>
+  <li>Which deployment automation or continuous integration tools are used?=
+</li>
+  <li>What is the estimated maximum number of concurrent users who will wan=
+t to use the system?</li>
+  <li>How many simultaneous users could the system handle, according to the=
+ most recent capacity test?</li>
+  <li>How does the service perform when you exceed the expected target usag=
+e volume? Does it degrade gracefully or catastrophically?</li>
+  <li>What is your scaling strategy when demand increases suddenly?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play11"></a>
+      <h6>PLAY 11</h6>
+      <h2 class=3D"display">Manage security and privacy through reusable pr=
+ocesses</h2>
+
+      <p>Our digital services have to protect sensitive information and kee=
+p systems secure. This is typically a process of continuous review and impr=
+ovement which should be built into the development and maintenance of the s=
+ervice. At the start of designing a new service or feature, the team lead s=
+hould engage the appropriate privacy, security, and legal officer(s) to dis=
+cuss the type of information collected, how it should be secured, how long =
+it is kept, and how it may be used and shared. The sustained engagement of =
+a privacy specialist helps ensure that personal data is properly managed. I=
+n addition, a key process to building a secure service is comprehensively t=
+esting and certifying the components in each layer of the technology stack =
+for security vulnerabilities, and then to re-use these same pre-certified c=
+omponents for multiple services.</p>
+
+<p>The following checklist provides a starting point, but teams should work=
+ closely with their privacy specialist and security engineer to meet the ne=
+eds of the specific service.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Contact the appropriate privacy or legal officer of the department or=
+ agency to determine whether a System of Records Notice (SORN), Privacy Imp=
+act Assessment, or other review should be conducted</li>
+  <li>Determine, in consultation with a records officer, what data is colle=
+cted and why, how it is used or shared, how it is stored and secured, and h=
+ow long it is kept</li>
+  <li>Determine, in consultation with a privacy specialist, whether and how=
+ users are notified about how personal information is collected and used, i=
+ncluding whether a privacy policy is needed and where it should appear, and=
+ how users will be notified in the event of a security breach</li>
+  <li>Consider whether the user should be able to access, delete, or remove=
+ their information from the service</li>
+  <li>=E2=80=9CPre-certify=E2=80=9D the hosting infrastructure used for the=
+ project using FedRAMP</li>
+  <li>Use deployment scripts to ensure configuration of production environm=
+ent remains consistent and controllable</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>Does the service collect personal information from the user?  How is =
+the user notified of this collection?</li>
+  <li>Does it collect more information than necessary? Could the data be us=
+ed in ways an average user wouldn=E2=80=99t expect?</li>
+  <li>How does a user access, correct, delete, or remove personal informati=
+on?</li>
+  <li>Will any of the personal information stored in the system be shared w=
+ith other services, people, or partners?</li>
+  <li>How and how often is the service tested for security vulnerabilities?=
+</li>
+  <li>How can someone from the public report a security issue?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play12"></a>
+      <h6>PLAY 12</h6>
+      <h2 class=3D"display">Use data to drive decisions</h2>
+
+      <p>At every stage of a project, we should measure how well our servic=
+e is working for our users. This includes measuring how well a system perfo=
+rms and how people are interacting with it in real-time. Our teams and agen=
+cy leadership should carefully watch these metrics to find issues and ident=
+ify which bug fixes and improvements should be prioritized. Along with moni=
+toring tools, a feedback mechanism should be in place for people to report =
+issues directly.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Monitor system-level resource utilization in real time</li>
+  <li>Monitor system performance in real-time (e.g. response time, latency,=
+ throughput, and error rates)</li>
+  <li>Ensure monitoring can measure median, 95th percentile, and 98th perce=
+ntile performance</li>
+  <li>Create automated alerts based on this monitoring</li>
+  <li>Track concurrent users in real-time, and monitor user behaviors in th=
+e aggregate to determine how well the service meets user needs</li>
+  <li>Publish metrics internally</li>
+  <li>Publish metrics externally</li>
+  <li>Use an experimentation tool that supports multivariate testing in pro=
+duction</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>What are the key metrics for the service?</li>
+  <li>How have these metrics performed over the life of the service?</li>
+  <li>Which system monitoring tools are in place?</li>
+  <li>What is the targeted average response time for your service? What per=
+cent of requests take more than 1 second, 2 seconds, 4 seconds, and 8 secon=
+ds?</li>
+  <li>What is the average response time and percentile breakdown (percent o=
+f requests taking more than 1s, 2s, 4s, and 8s) for the top 10 transactions=
+?</li>
+  <li>What is the volume of each of your service=E2=80=99s top 10 transacti=
+ons? What is the percentage of transactions started vs. completed?</li>
+  <li>What is your service=E2=80=99s monthly uptime target?</li>
+  <li>What is your service=E2=80=99s monthly uptime percentage, including s=
+cheduled maintenance? Excluding scheduled maintenance?</li>
+  <li>How does your team receive automated alerts when incidents occur?</li=
+>
+  <li>How does your team respond to incidents? What is your post-mortem pro=
+cess?</li>
+  <li>Which tools are in place to measure user behavior?</li>
+  <li>What tools or technologies are used for A/B testing?</li>
+  <li>How do you measure customer satisfaction?</li>
+</ul>
+
+    </div>
+ =20
+    <div class=3D"inner_container">
+      <a class=3D"anchor_offset" id=3D"play13"></a>
+      <h6>PLAY 13</h6>
+      <h2 class=3D"display">Default to open</h2>
+
+      <p>When we collaborate in the open and publish our data publicly, we =
+can improve Government together. By building services more openly and publi=
+shing open data, we simplify the public=E2=80=99s access to government serv=
+ices and information, allow the public to contribute easily, and enable reu=
+se by entrepreneurs, nonprofits, other agencies, and the public.</p>
+
+<h3 id=3D"checklist">Checklist</h3>
+<ol>
+  <li>Offer users a mechanism to report bugs and issues, and be responsive =
+to these reports</li>
+  <li>Provide datasets to the public, in their entirety, through bulk downl=
+oads and APIs (application programming interfaces)</li>
+  <li>Ensure that data from the service is explicitly in the public domain,=
+ and that rights are waived globally via an international public domain ded=
+ication, such as the =E2=80=9CCreative Commons Zero=E2=80=9D waiver</li>
+  <li>Catalog data in the agency=E2=80=99s enterprise data inventory and ad=
+d any public datasets to the agency=E2=80=99s public data listing</li>
+  <li>Ensure that we maintain the rights to all data developed by third par=
+ties in a manner that is releasable and reusable at no cost to the public</=
+li>
+  <li>Ensure that we maintain contractual rights to all custom software dev=
+eloped by third parties in a manner that is publishable and reusable at no =
+cost</li>
+  <li>When appropriate, create a versioned API for third parties and intern=
+al users to interact with the service directly</li>
+  <li>When appropriate, publish source code of projects or components onlin=
+e</li>
+  <li>When appropriate, share your development process and progress publicl=
+y</li>
+</ol>
+
+<h3 id=3D"key-questions">Key Questions</h3>
+<ul>
+  <li>How are you collecting user feedback for bugs and issues?</li>
+  <li>If there is an API, what capabilities does it provide? Is it versione=
+d? Who uses it? How is it documented?</li>
+  <li>If the codebase has not been released under an open source license, e=
+xplain why.</li>
+  <li>What components are made available to the public as open source?</li>
+  <li>What datasets are made available to the public?</li>
+</ul>
+
+    </div>
+ =20
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--5oU2JHd7LFdS9vzqv2ZRztoadkHMgVoKdzoT4KfLTK----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css?family=Merriweather:400,300,700|Source+Sans+Pro:400,700
+
+@charset "utf-8";
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 30=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l521wRZVcf6hPvhPUWH.woff2") format("woff2"); unicode-range: U+460-52F, =
+U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 30=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l521wRZXMf6hPvhPUWH.woff2") format("woff2"); unicode-range: U+301, U+40=
+0-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 30=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l521wRZV8f6hPvhPUWH.woff2") format("woff2"); unicode-range: U+102-103, =
+U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304=
+, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 30=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l521wRZVsf6hPvhPUWH.woff2") format("woff2"); unicode-range: U+100-2BA, =
+U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DB=
+F, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C=
+60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 30=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l521wRZWMf6hPvhPQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131=
+, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-20=
+6F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 40=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSv=
+owK_l5-cSZMdeX3rsHo.woff2") format("woff2"); unicode-range: U+460-52F, U+1C=
+80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 40=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSv=
+owK_l5-eCZMdeX3rsHo.woff2") format("woff2"); unicode-range: U+301, U+400-45=
+F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 40=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSv=
+owK_l5-cyZMdeX3rsHo.woff2") format("woff2"); unicode-range: U+102-103, U+11=
+0-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+=
+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 40=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSv=
+owK_l5-ciZMdeX3rsHo.woff2") format("woff2"); unicode-range: U+100-2BA, U+2B=
+D-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U=
++1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2=
+C7F, U+A720-A7FF; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 40=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSv=
+owK_l5-fCZMdeX3rg.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+=
+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, =
+U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 70=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l52xwNZVcf6hPvhPUWH.woff2") format("woff2"); unicode-range: U+460-52F, =
+U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 70=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l52xwNZXMf6hPvhPUWH.woff2") format("woff2"); unicode-range: U+301, U+40=
+0-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 70=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l52xwNZV8f6hPvhPUWH.woff2") format("woff2"); unicode-range: U+102-103, =
+U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304=
+, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 70=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l52xwNZVsf6hPvhPUWH.woff2") format("woff2"); unicode-range: U+100-2BA, =
+U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DB=
+F, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C=
+60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Merriweather; font-style: normal; font-weight: 70=
+0; src: url("https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSv=
+owK_l52xwNZWMf6hPvhPQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131=
+, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-20=
+6F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qNa7lujVj9_mf.woff2") format("woff2"); unicode-range: U+460=
+-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qPK7lujVj9_mf.woff2") format("woff2"); unicode-range: U+301=
+, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qNK7lujVj9_mf.woff2") format("woff2"); unicode-range: U+1F0=
+0-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qO67lujVj9_mf.woff2") format("woff2"); unicode-range: U+370=
+-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qN67lujVj9_mf.woff2") format("woff2"); unicode-range: U+102=
+-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+3=
+03-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qNq7lujVj9_mf.woff2") format("woff2"); unicode-range: U+100=
+-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D=
+00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113=
+, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 400; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcS=
+V-LCoeQqfX1RYOo3qOK7lujVj9w.woff2") format("woff2"); unicode-range: U+0-FF,=
+ U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2=
+000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 700; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ig4vwmhdu3cOWxy40.woff2") format("woff2"); unicode-range: U=
++460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 700; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ig4vwkxdu3cOWxy40.woff2") format("woff2"); unicode-range: U=
++301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 700; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ig4vwmxdu3cOWxy40.woff2") format("woff2"); unicode-range: U=
++1F00-1FFF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 700; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ig4vwlBdu3cOWxy40.woff2") format("woff2"); unicode-range: U=
++370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 700; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ig4vwmBdu3cOWxy40.woff2") format("woff2"); unicode-range: U=
++102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301,=
+ U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 700; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ig4vwmRdu3cOWxy40.woff2") format("woff2"); unicode-range: U=
++100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, =
+U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+=
+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Source Sans Pro"; font-style: normal; font-weigh=
+t: 700; src: url("https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcS=
+V-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2") format("woff2"); unicode-range: U+0=
+-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329,=
+ U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFF=
+D; }
+------MultipartBoundary--5oU2JHd7LFdS9vzqv2ZRztoadkHMgVoKdzoT4KfLTK----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://playbook.usds.gov/assets/css/styles.css
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+@media screen {
+  body { background: rgb(255, 255, 255); font-family: Merriweather, Georgia=
+, serif; margin: 0px; line-height: 1.5em; }
+  body#techfar_landing_page { background: rgb(50, 58, 69); }
+  a { color: inherit; font-family: inherit; font-weight: inherit; text-deco=
+ration: none; }
+  a.anchor_offset { display: block; position: relative; top: -60px; visibil=
+ity: hidden; }
+  a:hover { text-decoration: underline; }
+  ol, ul { list-style-type: decimal; list-style-position: inside; }
+  ol li, ul li { margin: 1em 0px; color: rgb(50, 58, 69); }
+  h1 { font-size: 52px; font-weight: 300; border-bottom: 1px solid rgb(255,=
+ 255, 255); padding-bottom: 0.25em; margin-bottom: 20px; line-height: 1.375=
+em; }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  h1 { font-size: 28px; }
+}
+
+@media screen {
+  h2 { font-family: Merriweather, Georgia, serif; font-size: 30px; line-hei=
+ght: 1.375em; font-weight: 300; }
+  h2.display { font-family: Merriweather, Georgia, serif; font-size: 54px; =
+line-height: 1.3em; font-weight: 300; margin-top: 0px; color: rgb(50, 58, 6=
+9); }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  h2.display { font-size: 32px; }
+}
+
+@media screen {
+  h3 { font-family: Merriweather, Georgia, serif; font-size: 20px; font-wei=
+ght: 700; }
+  h4 { font-family: Merriweather, Georgia, serif; font-size: 17px; font-wei=
+ght: 700; line-height: 1.5em; color: rgb(4, 107, 153); margin-bottom: 0px; =
+}
+  h6 { font-family: "Source Sans Pro", sans-serif; font-size: 14px; font-we=
+ight: 300; line-height: 1.5em; margin-bottom: 15px; }
+  p { color: rgb(50, 58, 69); font-weight: 400; font-size: 17px; line-heigh=
+t: 2em; }
+  .outer_container { max-width: 68em; margin-left: auto; margin-right: auto=
+; padding: 40px; }
+  .outer_container::after { content: ""; display: table; clear: both; }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  .outer_container { padding: 20px; }
+}
+
+@media screen {
+  .inner_container { margin-left: 8.5298%; float: left; display: block; mar=
+gin-right: 2.35765%; width: 82.9404%; }
+  .inner_container:last-child { margin-right: 0px; }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  .inner_container { margin-left: 0%; float: left; display: block; margin-r=
+ight: 7.42297%; width: 100%; }
+  .inner_container:last-child { margin-right: 0px; }
+}
+
+@media screen and (min-width: 641px) and (max-width: 980px) {
+  .inner_container { margin-left: 0%; float: left; display: block; margin-r=
+ight: 2.35765%; width: 100%; }
+  .inner_container:last-child { margin-right: 0px; }
+}
+
+@media screen {
+  .button { font-size: 17px; font-family: "Source Sans Pro", sans-serif; fo=
+nt-weight: 700; line-height: 1.5em; display: inline-block; margin-top: 40px=
+; margin-right: 20px; }
+  .button a { display: inline-block; border-radius: 3px; padding: 10px 20px=
+; text-decoration: none; border: 2px solid rgb(255, 255, 255); min-width: 1=
+72px; text-align: center; }
+  .button a:hover { background: rgb(255, 255, 255); color: rgb(50, 58, 69);=
+ text-decoration: none; }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  .button { margin-top: 20px; display: block; margin-right: 0px; text-align=
+: left; }
+}
+
+@media screen {
+  #alpha_tag { float: right; background: green; color: rgb(255, 255, 255); =
+padding: 10px; font-family: "Source Sans Pro", sans-serif; }
+  #introduction { background: rgb(16, 60, 104); color: rgb(255, 255, 255); =
+padding-bottom: 60px; }
+  #introduction a { text-decoration: underline; }
+  #introduction a:hover { background: rgb(255, 255, 255); color: rgb(50, 58=
+, 69); }
+  #introduction #usds_logo { display: inline-block; }
+  #introduction #usds_logo img { max-height: 100%; max-width: 100%; width: =
+150px; }
+  #introduction #usds_logo:hover { background: none; }
+  #introduction #usds_logo:hover img { opacity: 0.9; }
+  #introduction .button a { text-decoration: none; }
+  #introduction p { max-width: 700px; font-family: Merriweather, Georgia, s=
+erif; font-size: 20px; font-weight: 300; line-height: 2em; margin-top: 40px=
+; color: rgb(255, 255, 255); }
+  #introduction p.download_links { font-size: 16px; }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  #introduction { padding-bottom: 20px; }
+  #introduction p { font-size: 16px; line-height: 24px; margin-top: 20px; }
+}
+
+@media screen {
+  #navigation_bar { visibility: hidden; display: none; position: fixed; wid=
+th: 100%; height: 0px; background: rgb(16, 60, 104); color: rgb(255, 255, 2=
+55); }
+  #navigation_bar .outer_container { padding: 0px 40px; }
+  #navigation_bar h3 { padding: 20px 0px; margin-top: 0px; font-weight: 300=
+; color: rgb(255, 255, 255); display: inline-block; }
+  #navigation_bar h3:hover { text-decoration: underline; }
+  #navigation_bar ul { float: right; display: inline; padding: 0px; list-st=
+yle-position: outside; }
+  #navigation_bar .active a { background: rgb(0, 113, 188); color: rgb(255,=
+ 255, 255); text-decoration: none; }
+  #navigation_bar li { display: inline; margin-left: 5px; list-style-type: =
+none; }
+  #navigation_bar li a { display: inline-block; height: 24px; width: 24px; =
+line-height: 22px; text-align: center; font-family: Merriweather, Georgia, =
+serif; font-weight: lighter; color: rgb(255, 255, 255); border: 1px solid r=
+gb(0, 113, 188); }
+  #navigation_bar li a:hover { background: rgb(0, 113, 188); color: rgb(255=
+, 255, 255); text-decoration: none; }
+  #navigation_bar #menu_icon { display: none; height: 14px; width: 16px; ma=
+rgin-top: 16px; float: right; background-image: url("../images/menu_icon.sv=
+g"); background-size: contain; }
+  #navigation_bar #menu_icon a { display: block; height: 100%; width: 100%;=
+ }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  #navigation_bar ul { display: none; }
+  #navigation_bar #menu_icon { display: inline-block; }
+  #navigation_bar .outer_container { padding: 0px 20px; }
+  #navigation_bar h3 { font-size: 16px; padding: 16px 0px; line-height: 16p=
+x; }
+}
+
+@media screen and (min-width: 641px) and (max-width: 980px) {
+  #navigation_bar ul { display: none; }
+  #navigation_bar #menu_icon { display: inline-block; margin-top: 20px; hei=
+ght: 18px; width: 20px; }
+}
+
+@media screen {
+  #navigation_bar.show { visibility: visible; display: block; height: 60px;=
+ }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  #navigation_bar.show { height: 48px; visibility: visible; display: block;=
+ }
+}
+
+@media screen {
+  #plays_index { background: rgb(6, 78, 150); padding-bottom: 60px; color: =
+rgb(255, 255, 255); }
+  #plays_index h2 { margin-bottom: 38px; }
+  #plays_index .columns { column-count: 2; column-gap: 20px; }
+  #plays_index ol { list-style-position: inside; padding-left: 0px; margin-=
+top: 0px; }
+  #plays_index ol a { vertical-align: top; color: rgb(255, 255, 255); margi=
+n-top: 0px; display: inline-block; width: 85%; }
+  #plays_index ol, #plays_index li { font-size: 20px; font-weight: 300; lin=
+e-height: 1.5em; margin: 0px; color: rgb(255, 255, 255); }
+  #plays_index li { padding-bottom: 20px; }
+  #plays_index .button a { color: white; }
+  #plays_index .button a:hover { color: rgb(50, 58, 69); }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  #plays_index { padding-bottom: 20px; }
+  #plays_index h2 { font-size: 18px; margin-bottom: 20px; }
+  #plays_index ol, #plays_index li { font-size: 16px; line-height: 24px; }
+}
+
+@media screen and (min-width: 641px) and (max-width: 980px) {
+  #plays_index .columns { column-count: 1; column-gap: 0px; }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  #plays_index .columns { column-count: 1; column-gap: 0px; }
+}
+
+@media screen {
+  #plays h2, #plays h3, #techfar h2, #techfar h3 { float: left; display: bl=
+ock; margin-right: 2.35765%; width: 65.8808%; }
+  #plays h2:last-child, #plays h3:last-child, #techfar h2:last-child, #tech=
+far h3:last-child { margin-right: 0px; }
+  #plays h3, #techfar h3 { color: rgb(50, 58, 69); }
+  #plays h2, #techfar h2 { margin-bottom: 24px; }
+  #plays p, #techfar p { float: left; display: block; margin-right: 2.35765=
+%; width: 74.4106%; }
+  #plays p:last-child, #techfar p:last-child { margin-right: 0px; }
+  #plays ol, #plays ul, #techfar ol, #techfar ul { float: left; display: bl=
+ock; margin-right: 2.35765%; width: 65.8808%; list-style-position: outside;=
+ padding-left: 25px; }
+  #plays ol:last-child, #plays ul:last-child, #techfar ol:last-child, #tech=
+far ul:last-child { margin-right: 0px; }
+  #plays ol, #techfar ol { list-style-image: url("../images/bullet-sq.svg")=
+; margin-top: 0px; }
+  #plays li, #techfar li { padding-left: 5px; font-size: 15px; }
+  #plays ul, #techfar ul { list-style-image: url("../images/bullet-circle.s=
+vg"); }
+  #plays a, #techfar a { color: rgb(0, 113, 188); text-decoration: underlin=
+e; display: inline-block; }
+  #plays a:visited, #techfar a:visited { color: rgb(76, 44, 146); }
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+  #plays p, #techfar p { font-size: 16px; }
+  #plays ol, #plays li, #techfar ol, #techfar li { font-size: 16px; }
+  #plays h2, #plays h3, #plays p, #plays ol, #plays ul, #techfar h2, #techf=
+ar h3, #techfar p, #techfar ol, #techfar ul { float: left; display: block; =
+margin-right: 7.42297%; width: 100%; }
+  #plays h2:last-child, #plays h3:last-child, #plays p:last-child, #plays o=
+l:last-child, #plays ul:last-child, #techfar h2:last-child, #techfar h3:las=
+t-child, #techfar p:last-child, #techfar ol:last-child, #techfar ul:last-ch=
+ild { margin-right: 0px; }
+}
+
+@media screen and (min-width: 641px) and (max-width: 980px) {
+  #plays h2, #plays h3, #techfar h2, #techfar h3 { float: left; display: bl=
+ock; margin-right: 2.35765%; width: 74.4106%; }
+  #plays h2:last-child, #plays h3:last-child, #techfar h2:last-child, #tech=
+far h3:last-child { margin-right: 0px; }
+  #plays p, #techfar p { float: left; display: block; margin-right: 2.35765=
+%; width: 82.9404%; }
+  #plays p:last-child, #techfar p:last-child { margin-right: 0px; }
+}
+
+@media screen {
+  #techfar em { font-size: 12px; line-height: 0; vertical-align: super; }
+  #techfar h2, #techfar h4 { margin-top: 20px; }
+  #techfar img { max-width: 100%; }
+}
+
+@media print {
+  body { background: white; font-family: Merriweather, Georgia, serif; font=
+-weight: lighter; line-height: 1.5em; font-size: 12px; margin-left: 16.5%; =
+margin-right: 16.5%; }
+  #plays_index ol { list-style-type: decimal; }
+  #plays_index a { text-decoration: none; }
+  #navigation_bar { display: none; }
+  a { color: rgb(50, 58, 69); text-decoration: underline; }
+  ol, ul { width: 80%; }
+  ol { list-style-type: square; }
+  p { width: 100%; }
+  h2, h4 { width: 66%; }
+  h2 { margin-top: 0px; }
+  h5 { margin-top: 60px; margin-bottom: 0px; }
+  .button { display: none; }
+}
+------MultipartBoundary--5oU2JHd7LFdS9vzqv2ZRztoadkHMgVoKdzoT4KfLTK----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://playbook.usds.gov/assets/images/bullet-sq.svg
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?>
+<svg width=3D"16px" height=3D"16px" viewBox=3D"0 0 16 16" version=3D"1.1" x=
+mlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/1999/x=
+link" xmlns:sketch=3D"http://www.bohemiancoding.com/sketch/ns">
+    <title>Slice 1</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)=
+</description>
+    <defs></defs>
+    <g id=3D"Page-1" stroke=3D"none" stroke-width=3D"1" fill=3D"none" fill-=
+rule=3D"evenodd" sketch:type=3D"MSPage">
+        <g id=3D"bullet-sq1" sketch:type=3D"MSLayerGroup" transform=3D"tran=
+slate(1.000000, 1.000000)" stroke-width=3D"1.5" stroke=3D"#32436E">
+            <g id=3D"Page-1" sketch:type=3D"MSShapeGroup">
+                <g id=3D"bullet-sq">
+                    <rect id=3D"Rectangle" x=3D"0" y=3D"0" width=3D"13.4" h=
+eight=3D"13.4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+------MultipartBoundary--5oU2JHd7LFdS9vzqv2ZRztoadkHMgVoKdzoT4KfLTK----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://playbook.usds.gov/assets/images/bullet-circle.svg
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?>
+<svg width=3D"15px" height=3D"15px" viewBox=3D"0 0 15 15" version=3D"1.1" x=
+mlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/1999/x=
+link" xmlns:sketch=3D"http://www.bohemiancoding.com/sketch/ns">
+    <title>Slice 1</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)=
+</description>
+    <defs></defs>
+    <g id=3D"Page-1" stroke=3D"none" stroke-width=3D"1" fill=3D"none" fill-=
+rule=3D"evenodd" sketch:type=3D"MSPage">
+        <g id=3D"bullet-circle1" sketch:type=3D"MSLayerGroup" transform=3D"=
+translate(1.000000, 1.000000)" stroke-width=3D"1.5" stroke=3D"#32436E">
+            <g id=3D"Page-1" sketch:type=3D"MSShapeGroup">
+                <g id=3D"bullet-circle">
+                    <circle id=3D"Oval" cx=3D"6.5" cy=3D"6.5" r=3D"6.5"></c=
+ircle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+------MultipartBoundary--5oU2JHd7LFdS9vzqv2ZRztoadkHMgVoKdzoT4KfLTK----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://playbook.usds.gov/assets/images/usds-logo-seal.png
+
+iVBORw0KGgoAAAANSUhEUgAAAaMAAAGjCAYAAAH2kkpiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyVpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ4IDc5LjE2
+NDAzNiwgMjAxOS8wOC8xMy0wMTowNjo1NyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIxLjEgKE1hY2ludG9zaCkiIHhtcE1NOkluc3Rh
+bmNlSUQ9InhtcC5paWQ6M0JFMzdGRUY1MEZCMTFFQTlFQkM5MjA2MzhBMjc5QjIiIHhtcE1NOkRv
+Y3VtZW50SUQ9InhtcC5kaWQ6M0JFMzdGRjA1MEZCMTFFQTlFQkM5MjA2MzhBMjc5QjIiPiA8eG1w
+TU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozQkUzN0ZFRDUwRkIxMUVB
+OUVCQzkyMDYzOEEyNzlCMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozQkUzN0ZFRTUwRkIx
+MUVBOUVCQzkyMDYzOEEyNzlCMiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6
+eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PtX62GsAAF8HSURBVHjaYmCgMfj//38EEF/8DwHP
+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
+
+------MultipartBoundary--5oU2JHd7LFdS9vzqv2ZRztoadkHMgVoKdzoT4KfLTK------

@@ -1,0 +1,507 @@
+<NOTICE>
+                <PREAMB>
+                    <PRTPAGE P="71610"/>
+                    <AGENCY TYPE="S">OFFICE OF MANAGEMENT AND BUDGET</AGENCY>
+                    <SUBJECT>Statistical Policy Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units</SUBJECT>
+                    <AGY>
+                        <HD SOURCE="HED">AGENCY:</HD>
+                        <P>Executive Office of the President, Office of Management and Budget.</P>
+                    </AGY>
+                    <ACT>
+                        <HD SOURCE="HED">ACTION:</HD>
+                        <P>Notice of final decision.</P>
+                    </ACT>
+                    <SUM>
+                        <HD SOURCE="HED">SUMMARY:</HD>
+                        <P>
+                            Under the 
+                            <E T="03">Budget and Accounting Procedures Act</E>
+                             of 1950 (31 U.S.C. 1104 (d)) and the 
+                            <E T="03">Paperwork Reduction Act</E>
+                             of 1995 (44 U.S.C. 3504 (e)), the Office of Management and Budget (OMB) is issuing Statistical Policy Directive No. 1, 
+                            <E T="03">Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units.</E>
+                             This Directive affirms the fundamental responsibilities of Federal statistical agencies and recognized statistical units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information. On May 21, 2014, OMB published a Notice of solicitation of comments on a draft of this Directive in the 
+                            <E T="04">Federal Register</E>
+                             (79 FR 29308, May 21, 2014). Eight respondents sent comments in regard to the notice. Careful consideration was given to all comments. The disposition of the comments as well as the final Directive are presented in the 
+                            <E T="02">SUPPLEMENTARY INFORMATION</E>
+                             section below.
+                        </P>
+                        <P>
+                            In its role as coordinator of the Federal statistical system under the 
+                            <E T="03">Paperwork Reduction Act,</E>
+                             OMB, among other responsibilities, is required to ensure the efficiency and effectiveness of the system as well as the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes. OMB is also charged with developing and overseeing the implementation of Government-wide principles, policies, standards, and guidelines concerning the development, presentation, and dissemination of statistical information. The 
+                            <E T="03">Information Quality Act</E>
+                             (Pub. L. 106-554, Division C, title V, Sec. 515, Dec. 21, 2000; 114 Stat. 2763A-153 to 2763A-154) requires OMB, as well as all other Federal agencies, to maximize the objectivity, utility, and integrity of information, including statistical information, provided to the public.
+                        </P>
+                        <P>To operate efficiently and effectively, the Nation relies on the flow of objective, credible statistics to support the decisions of individuals, households, governments, businesses, and other organizations. Any loss of trust in the accuracy, objectivity, or integrity of the Federal statistical system and its products causes uncertainty about the validity of measures the Nation uses to monitor and assess its performance, progress, and needs by undermining the public's confidence in the information released by the Government. Although the Federal Government has taken a number of legislative and executive actions, informed by national and international practice, to maintain public confidence in Federal statistics, the actual implementation in the form of standards and practices can involve a wide range of managerial and technical challenges.</P>
+                        <P>
+                            Therefore, to support the quality and objectivity of Federal statistical information, OMB is issuing a new Statistical Policy Directive to affirm the long-acknowledged, fundamental responsibilities of Federal statistical agencies and recognized statistical units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information. Additional discussion of the Directive, together with the Directive itself, may be found in the 
+                            <E T="02">SUPPLEMENTARY INFORMATION</E>
+                             section below.
+                        </P>
+                    </SUM>
+                    <DATES>
+                        <HD SOURCE="HED">DATES:</HD>
+                        <P>
+                            <E T="03">Effective Date:</E>
+                             The effective date of this Directive is December 2, 2014.
+                        </P>
+                    </DATES>
+                    <ADD>
+                        <HD SOURCE="HED">ADDRESSES:</HD>
+                        <P>
+                            Please send any questions about this Directive to: Katherine K. Wallman, Chief Statistician, Office of Management and Budget, 10201 New Executive Office Building, Washington, DC 20503, 
+                            <E T="03">telephone number:</E>
+                             (202) 395-3093, 
+                            <E T="03">FAX number:</E>
+                             (202) 395-7245. You may also send questions via Email to 
+                            <E T="03">DirectiveNo1@omb.eop.gov.</E>
+                             Because of delays in the receipt of regular mail related to security screening, use of electronic communications is encouraged.
+                        </P>
+                        <P>
+                            <E T="03">Electronic Availability:</E>
+                             This document is available on the Internet on the OMB Web site at 
+                            <E T="03">www.omb.gov/inforeg/ssp/DirectiveNo1Final.</E>
+                        </P>
+                    </ADD>
+                    <FURINF>
+                        <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+                        <P>
+                            Jennifer Park, 10201 New Executive Office Building, Washington, DC 20503, Email address: 
+                            <E T="03">jpark@omb.eop.gov</E>
+                             with subject Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units, 
+                            <E T="03">telephone number:</E>
+                             (202) 395-9046, 
+                            <E T="03">FAX number:</E>
+                             (202) 395-7245.
+                        </P>
+                    </FURINF>
+                </PREAMB>
+                <SUPLINF>
+                    <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+                    <P>The Nation relies on the flow of credible statistics to support the decisions of individuals, households, governments, businesses, and other organizations. Any loss of trust in the relevance, accuracy, objectivity, or integrity of the Federal statistical system and its products can foster uncertainty about the validity of measures our Nation uses to monitor and assess performance, progress, and needs.</P>
+                    <P>
+                        <E T="03">Definitions:</E>
+                         The terms, 
+                        <E T="03">Federal statistical agencies and recognized statistical units, statistical activities, statistical purpose, relevance, objectivity, accuracy,</E>
+                         and 
+                        <E T="03">confidentiality,</E>
+                         as used in this section, are defined within the text of the Statistical Policy Directive in the subsequent section.
+                    </P>
+                    <P>
+                        <E T="03">Scope:</E>
+                         The Federal statistical system comprises over 100 programs that engage in statistical activities. However, this Directive specifically applies to the following 
+                        <E T="03">Federal statistical agencies and recognized statistical units:</E>
+                    </P>
+                    <FP SOURCE="FP-1">—Bureau of Economic Analysis (Department of Commerce);</FP>
+                    <FP SOURCE="FP-1">—Bureau of Justice Statistics (Department of Justice);</FP>
+                    <FP SOURCE="FP-1">—Bureau of Labor Statistics (Department of Labor);</FP>
+                    <FP SOURCE="FP-1">—Bureau of Transportation Statistics (Department of Transportation);</FP>
+                    <FP SOURCE="FP-1">—Census Bureau (Department of Commerce);</FP>
+                    <FP SOURCE="FP-1">—Economic Research Service (Department of Agriculture);</FP>
+                    <FP SOURCE="FP-1">—Energy Information Administration (Department of Energy);</FP>
+                    <FP SOURCE="FP-1">—National Agricultural Statistics Service (Department of Agriculture);</FP>
+                    <FP SOURCE="FP-1">—National Center for Education Statistics (Department of Education);</FP>
+                    <FP SOURCE="FP-1">—National Center for Health Statistics (Department of Health and Human Services);</FP>
+                    <FP SOURCE="FP-1">—National Center for Science and Engineering Statistics (National Science Foundation);</FP>
+                    <FP SOURCE="FP-1">—Office of Research, Evaluation, and Statistics (Social Security Administration);</FP>
+                    <FP SOURCE="FP-1">—Statistics of Income Division (Department of the Treasury);</FP>
+                    <FP SOURCE="FP-1">—Microeconomic Surveys Unit, Federal Reserve Board;</FP>
+                    <FP SOURCE="FP-1">—Center for Behavioral Health Statistics and Quality, Substance Abuse and Mental Health Services Administration  (Department of Health and Human Services);</FP>
+                    <FP SOURCE="FP-1">—National Animal Health Monitoring System, Animal and Plant Health Inspection Service (Department of Agriculture); and</FP>
+                    <FP SOURCE="FP-1">—Federal statistical agencies and statistical units newly recognized by OMB after the issuance of this Directive as  agencies or organizational units of the Executive Branch whose principal missions are statistical activities.</FP>
+                    <P>
+                        <E T="03">Background:</E>
+                         The Federal Government has taken a number of legislative and 
+                        <PRTPAGE P="71611"/>
+                        executive actions, informed by national and international professional practice, to maintain public confidence in the relevance, accuracy, objectivity, and integrity of Federal statistics. Documents that provide or inform a common foundation for core statistical agency functions are outlined in the paragraphs below. Taken as a whole, these complementary documents contribute to an integrative framework guiding the production of Federal statistics, encompassing design, collection, processing, editing, compilation, storage, analysis, release, and dissemination.
+                    </P>
+                    <P>
+                        The 
+                        <E T="03">Paperwork Reduction Act</E>
+                         (PRA) makes OMB responsible, among other requirements, for coordination of the Federal statistical system. The purpose of this coordination is to ensure the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes.
+                    </P>
+                    <P>
+                        <E T="03">Title V of the E-Government Act of 2002</E>
+                        <E T="03">, the Confidential Information Protection and Statistical Efficiency Act of 2002</E>
+                         (CIPSEA) (Pub. L. 107-347, title V; 116 Stat. 2962, Dec. 17, 2002) establishes uniform data protection requirements for Federal statistical collections, sets minimum standards for safeguarding confidential statistical information, and ensures the confidentiality of information collected exclusively for statistical purposes. OMB's 
+                        <E T="03">Implementation Guidance for Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002</E>
+                         (CIPSEA Implementation Guidance) (72 FR 33362, June 15, 2007) supports public trust by standardizing the pledge Federal statistical agencies and recognized statistical units use when collecting information for statistical purposes from the public. It provides a uniform approach to protecting confidential information any time an agency pledges to keep confidential the information it collects exclusively for statistical purposes. This guidance also requires the application of sound scientific and statistical disclosure limitation techniques to minimize the risk of re-identification of survey respondents in statistical data products. Additional legislation requires maintaining the confidentiality of responses to agency-specific data collections.
+                        <SU>1</SU>
+                        <FTREF/>
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>1</SU>
+                             Examples of such laws are the 
+                            <E T="03">Food Security Act of 1985</E>
+                             Sec. 1770, 7 U.S.C. 2276, as amended in Pub. L. 105-113 (Nov. 21, 1997) (National Agricultural Statistics Service), 
+                            <E T="03">13 U.S.C. 9</E>
+                             (Census Bureau), 
+                            <E T="03">42 U.S.C. 1873</E>
+                             (National Center for Science and Engineering Statistics), and the 
+                            <E T="03">Education Sciences Reform Act of 2002</E>
+                             (Pub. L. 107-279, Nov. 5, 2002) (National Center for Education Statistics).
+                        </P>
+                    </FTNT>
+                    <P>
+                        The 
+                        <E T="03">Privacy Act of 1974</E>
+                         and the 
+                        <E T="03">Privacy Act Implementation: Guidelines and Responsibilities</E>
+                         (5 U.S.C. 552a; 40 FR 28948, Jul. 9, 1975) establish a series of requirements to ensure that personal information about individuals collected by Federal agencies is limited to that which is legally authorized and necessary and is maintained in a manner that precludes unwarranted intrusions upon individual privacy. 
+                        <E T="03">Section 208 of the E-Government Act of 2002</E>
+                         (Pub. L. 107-347, 44 U.S.C. Ch 36, Dec. 17, 2002) requires agencies to conduct privacy impact assessments when they develop, procure, or use information technology to collect, maintain, or disseminate personally identifiable information. OMB's 
+                        <E T="03">Circular A-130</E>
+                         (revised Nov. 28, 2000) establishes policy for the management of Federal information resources, including certain privacy reporting and publication requirements. These statutes and policies promote public trust by establishing a common code of fair information practices that applies to all Federal agencies that collect information about individuals.
+                    </P>
+                    <P>
+                        Pursuant to the 
+                        <E T="03">Information Quality Act,</E>
+                         OMB has established guidelines that require each Federal agency to institute procedures to ensure the objectivity, utility, and integrity of information, including statistical information, provided to the public. OMB 
+                        <E T="03">Government-wide Information Quality Guidelines</E>
+                         (67 FR 8453, Jan. 3, 2002) define objectivity, utility, and integrity in a manner consistent with use of these terms in the PRA. Each Federal agency, through the adoption or adaptation of these guidelines, maintains its commitment to use the best available science and statistical methods; subjects information, models, and analytic results to independent peer review by qualified experts, when appropriate; disseminates its data and analytic products with a high degree of transparency about the data and methods to facilitate their reproducibility by qualified third parties; and ensures that the presentation of information is comprehensive, informative, and understandable.
+                    </P>
+                    <P>
+                        OMB's 
+                        <E T="03">Standards and Guidelines for Statistical Surveys</E>
+                         (71 FR 55522, Sept. 22, 2006) describes specific practices that support the quality of design, collection, processing, production, analysis, review, and dissemination of information from statistical surveys.
+                    </P>
+                    <P>
+                        OMB's 
+                        <E T="03">Statistical Policy Directive No. 3, Compilation, Release, and Evaluation of Principal Federal Economic Indicators</E>
+                         (50 FR 38932, Sept. 25, 1985) establishes requirements for Federal agencies regarding the compilation, release, and evaluation of economic activity measures that are relied upon by the public as Principal Federal Economic Indicators.
+                    </P>
+                    <P>
+                        OMB's 
+                        <E T="03">Statistical Policy Directive No. 4, Release and Dissemination of Statistical Products Produced by Federal Statistical Agencies</E>
+                         (73 FR 12622, Mar. 7, 2008) establishes requirements for Federal statistical agencies and recognized statistical units on the release and dissemination of statistical products. Agencies are required to follow specific guidance to ensure that their release of information is equitable across all users, policy neutral, transparent and understandable to the public, and timely to the needs of data users.
+                    </P>
+                    <P>
+                        The 
+                        <E T="03">President's Memorandum on the Preservation and Promotion of Scientific Integrity</E>
+                         (March 9, 2009) articulates six principles central to the preservation and promotion of scientific integrity. A central theme of the President's memorandum is that the public must be able to trust the science and scientific processes informing public policy decisions. The 
+                        <E T="03">Memorandum for the Heads of Executive Departments and Agencies</E>
+                         (December 17, 2010) issued by the Director of the Office of Science and Technology Policy provides guidance for implementing the President's policy on scientific integrity. That memorandum directs Executive departments and agencies to develop policies that ensure a culture of scientific integrity, strengthen the actual and perceived credibility of Government research, facilitate the free flow of scientific and technologic information, and establish principles for conveying scientific and technologic information to the public.
+                    </P>
+                    <P>
+                        <E T="03">Principles and Practices for a Federal Statistical Agency</E>
+                         (
+                        <E T="03">Principles and Practices</E>
+                        ), issued by the National Research Council of the National Academy of Sciences, has guided managerial and technical decisions made by national and international statistical agencies for decades. Four principles are identified.
+                        <SU>2</SU>
+                        <FTREF/>
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>2</SU>
+                             
+                            <E T="03">Principles and Practices for a Federal Statistical Agency,</E>
+                             National Research Council of the National Academies, Fifth edition, Committee on National Statistics, Constance F. Citro and Miron L. Straf, Editors, Division of Behavioral and Social Sciences and Education. Washington, DC The National Academies Press (2013).
+                        </P>
+                    </FTNT>
+                    <P>
+                        1. Relevance to Public Policy Issues. A Federal statistical agency must be in a position to provide objective, accurate, 
+                        <PRTPAGE P="71612"/>
+                        and timely information that is relevant to issues of public policy.
+                    </P>
+                    <P>2. Credibility Among Data Users. A Federal statistical agency must have credibility with those who use its data and information.</P>
+                    <P>3. Trust Among Data Providers. A Federal statistical agency must have the trust of those whose information it obtains.</P>
+                    <P>4. Independence from Political and Other Undue External Influence. A Federal statistical agency must be independent from political and other undue external influence in developing, producing, and disseminating statistics.</P>
+                    <P>
+                        The United States is not alone in identifying statistical principles. The 
+                        <E T="03">European Statistics Code of Practice</E>
+                         guides European statistical systems by affirming the European Union member nations' commitment to ensuring high quality in the statistical production process, protecting the confidentiality of the information they collect, and disseminating statistics in an objective, professional, and transparent manner.
+                        <SU>3</SU>
+                        <FTREF/>
+                         Fifteen principles are identified.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>3</SU>
+                             
+                            <E T="03">European Statistics Code of Practice for the National and Community Statistical Authorities,</E>
+                             European Statistical System, Adopted September 28, 2011.
+                        </P>
+                    </FTNT>
+                    <P>1. Professional independence of statistical authorities from other policy, regulatory or administrative departments and bodies, as well as from private sector operators, ensures the credibility of European Statistics.</P>
+                    <P>2. Statistical authorities have a clear legal mandate to collect information for European statistical purposes. Administrations, enterprises and households, and the public at large may be compelled by law to allow access to or deliver data for European statistical purposes at the request of statistical authorities.</P>
+                    <P>3. The resources available to statistical authorities are sufficient to meet European Statistics requirements.</P>
+                    <P>4. Statistical authorities are committed to quality. They systematically and regularly identify strengths and weaknesses to continuously improve process and product quality.</P>
+                    <P>5. The privacy of data providers (households, enterprises, administrations and other respondents), the confidentiality of the information they provide, and uses only for statistical purposes are absolutely guaranteed.</P>
+                    <P>6. Statistical authorities develop, produce and disseminate European Statistics respecting scientific independence and in an objective, professional and transparent manner in which all users are treated equitably.</P>
+                    <P>7. Sound methodology underpins quality statistics. This requires adequate tools, procedures and expertise.</P>
+                    <P>8. Appropriate statistical procedures, implemented from data collection to data validation, underpin quality statistics.</P>
+                    <P>9. The reporting burden is proportionate to the needs of the users and is not excessive for respondents. The statistical authorities monitor the response burden and set targets for its reduction over time.</P>
+                    <P>10. Resources are used effectively.</P>
+                    <P>11. European Statistics meet the needs of users.</P>
+                    <P>12. European Statistics accurately and reliably portray reality.</P>
+                    <P>13. European Statistics are released in a timely and punctual manner.</P>
+                    <P>14. European Statistics are consistent internally, over time and comparable between regions and countries; it is possible to combine and make joint use of related data from different sources.</P>
+                    <P>15. European Statistics are presented in a clear and understandable form, released in a suitable and convenient manner, available and accessible on an impartial basis with supporting metadata and guidance.</P>
+                    <P>
+                        The 
+                        <E T="03">United Nations Fundamental Principles of Official Statistics</E>
+                         affirm ten fundamental principles that promote and build the “essential trust of the public in the integrity of official statistical systems and confidence in statistics.” 
+                        <SU>4</SU>
+                        <FTREF/>
+                         These principles ensure that national statistical systems in United Nations member states produce high quality and reliable data by adhering to certain professional and scientific standards.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>4</SU>
+                             
+                            <E T="03">Fundamental Principles of Official Statistics,</E>
+                             United Nations Statistical Commission, adopted April 11-15, 1994. Revised preamble adopted February 26-March 1, 2013; adopted July 24, 2013 by the United Nations Economic and Social Council; adopted January 29, 2014 by the United Nations General Assembly (with sponsorship by the United States).
+                        </P>
+                    </FTNT>
+                    <P>1. Official statistics provide an indispensable element in the information system of a democratic society, serving the Government, the economy and the public with data about the economic, demographic, social and environmental situation. To this end, official statistics that meet the test of practical utility are to be compiled and made available on an impartial basis by official statistical agencies to honour citizens' entitlement to public information.</P>
+                    <P>2. To retain trust in official statistics, the statistical agencies need to decide according to strictly professional considerations, including scientific principles and professional ethics, on the methods and procedures for the collection, processing, storage and presentation of statistical data.</P>
+                    <P>3. To facilitate a correct interpretation of the data, the statistical agencies are to present information according to scientific standards on the sources, methods, and procedures of the statistics.</P>
+                    <P>4. The statistical agencies are entitled to comment on erroneous interpretation and misuse of statistics.</P>
+                    <P>5. Data for statistical purposes may be drawn from all types of sources, be they statistical surveys or administrative records. Statistical agencies are to choose the source with regard to quality, timeliness, costs and the burden on respondents.</P>
+                    <P>6. Individual data collected by statistical agencies for statistical compilation, whether they refer to natural or legal persons, are to be strictly confidential and used exclusively for statistical purposes.</P>
+                    <P>7. The laws, regulations, and measures under which the statistical systems operate are to be made public.</P>
+                    <P>8. Coordination among statistical agencies within countries is essential to achieve consistency and efficiency in the statistical system.</P>
+                    <P>9. The use by statistical agencies in each country of international concepts, classifications and methods promotes the consistency and efficiency of statistical systems at all official levels.</P>
+                    <P>10. Bilateral and multilateral cooperation in statistics contributes to the improvement of systems of official statistics in all countries.</P>
+                    <P>Although these principles and policies provide a common foundation for core statistical agency functions, their actual implementation in the form of standards and practices can involve a wide range of managerial and technical challenges. Therefore, to support agency decision-making in a manner that fosters statistical quality, OMB developed this Statistical Policy Directive. This Directive provides a unified articulation of Federal statistical agency responsibilities. The framework requires Federal statistical agencies and recognized statistical units to adopt policies, best practices, and appropriate procedures to implement these responsibilities. Such a framework also recognizes and identifies the essential role of Federal Departments in supporting Federal statistical agencies and recognized statistical units as they implement these responsibilities.</P>
+                    <P>
+                        <E T="03">Disposition Of Comments Received:</E>
+                         On May 21, 2014, OMB published in the 
+                        <E T="04">Federal Register</E>
+                         (79 FR 29308, May 21, 2014) a notice seeking comments on a draft of this Directive. Eight respondents 
+                        <PRTPAGE P="71613"/>
+                        sent comments in regard to the notice. All commenters encouraged OMB to issue the Directive, some as drafted and others with suggested changes designed to strengthen various provisions of the Directive. After careful consideration, the draft Directive was modified in response to comment and is issued as final by this notice. A general discussion of the comments as they pertain to sections of the Directive and their disposition follows.
+                    </P>
+                    <P>
+                        <E T="03">Authority and Purpose.</E>
+                         One comment suggested adding implementation guidance to the Directive. We agree that implementation guidance may be valuable. However, this Directive is intended to provide a concise, stable, and unified articulation of Federal statistical agency responsibilities. As such, the framework is intended to be a foundation document, with minimal changes anticipated over time. In contrast, we anticipate that the policies, practices, and procedures needed to implement these responsibilities will necessarily change over time, as particular data needs, forms of data, and information technology applications evolve. Therefore, the Directive is limited to articulating core principles; implementation guidance, if developed, would be issued separately.
+                    </P>
+                    <P>A comment called for a provision requiring Federal Departments to report within a specified period of time how their current structures and procedures support Federal statistical agencies and recognized statistical units in achieving their responsibilities. We agree this information would be beneficial, but see reporting requirements as an activity related to the implementation of the Directive, rather than as a function of the Directive itself. The Directive is intended to be brief and including reporting requirements is not well-suited for its scope as a foundation document. Therefore, we may request this or similar information upon issuance of the final Directive.</P>
+                    <P>
+                        <E T="03">Background.</E>
+                         One comment requested clarification as to the definition of “participating countries” referenced in the Directive's discussion of the United Nations' 
+                        <E T="03">Fundamental Principles of Official Statistics.</E>
+                         We have modified the text to clarify that our reference pertains to United Nations' member states, of which there are currently 193.
+                    </P>
+                    <P>
+                        <E T="03">Responsibility 1.</E>
+                         Four comments suggested that the Directive clarify Federal statistical agencies' roles and responsibilities regarding data archiving and data access for future secondary analysis, as recommended in 
+                        <E T="03">Principles and Practices.</E>
+                         Such guidance would describe which data should be retained, how the data should be archived and for what period of time, and how data should be accessed responsibly. One comment placed this request within a broader request for leadership in navigating “big data” conceptualization and management. A related comment suggested Federal statistical agencies and recognized statistical units employ a common metadata classification system to better enable interoperability and utility of data. In response, as stated above, we agree that data storage is an important element in the data life cycle responsibilities assigned to Federal statistical agencies and recognized statistical units, and have included that activity more explicitly within the Directive. However, the purpose of this Directive is to provide a concise, stable, and unified framework for previously established responsibilities. Therefore, inclusion of current best practices relating to data archives and access is outside the scope of this Directive and, if developed, would be issued under separate guidance.
+                    </P>
+                    <P>
+                        <E T="03">Responsibility 3.</E>
+                         One comment recommended that the Directive include a statement describing how autonomy relates to the other three responsibilities, since doing so would underscore the importance of autonomy in achieving each responsibility. We agree that the responsibility of objectivity is strongly related to each of the fundamental responsibilities identified in this Directive. We think emphasizing the importance of achieving all four responsibilities in concert would underscore the value and relationship of each responsibility toward the overall goal of supporting the quality of Federal statistics. We have added language to that effect.
+                    </P>
+                    <P>One comment requested that explicit language be added to clarify and harmonize this Directive and other legislation, regulations, and policies. In particular, the comment urged OMB to address how this Directive intersects with provisions of the Education Sciences Reform Act (ESRA) of 2002, wherein an agency external to a Federal statistical agency could be interpreted to have authority to determine when and how to disseminate the statistical products of a Federal statistical agency. In response, we believe this circumstance should not impede the implementation of the Directive. Thus, when a statute authorizes an external agency to make determinations that this Directive assigns as the proper responsibility of a Federal statistical agency, the authorized agency should delegate those determinations to the Federal statistical agency. Doing so benefits both the Federal statistical agency and its Department. Both parties have a clear, vested interest in preserving the actual and perceived objectivity of Government data. Indeed, implementation of policy recommendations could be profoundly undermined should there be public distrust in the statistical estimates used as the basis for the decisions made by policy-makers. If the Department believes the Federal statistical agency or recognized statistical unit does not have capacity to carry out the responsibilities set forth in this Directive, then the Department should make the necessary resources available to the Federal statistical agency or recognized statistical unit.</P>
+                    <P>
+                        Another comment recommended that OMB include “information technology systems” among the items that should not be permitted to affect the autonomy of Federal statistical agencies, since these can affect the release, transparency, integrity, and confidentiality of official Federal statistics. We interpret this comment as a recommendation to emphasize that a Federal statistical agency or recognized statistical unit has authority over the processing, storage, and maintenance of the data that it collects. We agree and have added text referencing 
+                        <E T="03">CIPSEA Implementation Guidance.</E>
+                    </P>
+                    <P>
+                        Accordingly, OMB hereby adopts and issues the attached final Statistical Policy Directive No. 1, 
+                        <E T="03">Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units.</E>
+                    </P>
+                    <SIG>
+                        <NAME>Howard Shelanski,</NAME>
+                        <TITLE>Administrator, Office of Information and Regulatory Affairs.</TITLE>
+                    </SIG>
+                    <HD SOURCE="HD1">Statistical Policy Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units</HD>
+                    <P>
+                        <E T="03">Authority And Purpose:</E>
+                         This Directive affirms the fundamental responsibilities of Federal statistical agencies and recognized statistical units and defines the requirements governing the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information by Federal statistical agencies and recognized statistical units. The Directive is issued under the authority of the 
+                        <E T="03">Budget and Accounting Procedures Act</E>
+                         of 1950 (31 U.S.C. 1104 (d)) and the 
+                        <E T="03">Paperwork Reduction Act</E>
+                         of 1995 (44 U.S.C. 3504 (e)).
+                    </P>
+                    <P>
+                        <E T="03">Scope:</E>
+                         This Directive applies to 
+                        <E T="03">Federal statistical agencies and recognized statistical units</E>
+                        —defined in the 
+                        <E T="03">
+                            Implementation Guidance for Title V of the E-Government Act, Confidential Information Protection and Statistical 
+                            <PRTPAGE P="71614"/>
+                            Efficiency Act of 2002
+                        </E>
+                         (CIPSEA Implementation Guidance) (72 FR 33362 at 33368, June 15, 2007), as well as Federal statistical agencies and statistical units newly recognized by OMB after the issuance of this Directive, as agencies or organizational units of the Executive Branch whose principal missions are statistical activities.
+                    </P>
+                    <P>
+                        <E T="03">Definitions:</E>
+                         As defined in 
+                        <E T="03">Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002</E>
+                         (CIPSEA) (Pub. L. 107-347, title V; 116 Stat. 2962, Dec. 17, 2002), s
+                        <E T="03">tatistical activities</E>
+                         are the collection, compilation, processing, analysis, or dissemination of data 
+                        <SU>1</SU>
+                        <FTREF/>
+                         for the purpose of describing or making estimates concerning the whole, or relevant groups or components within, the economy, society, or the natural environment, including the development of methods or resources that support those activities, such as measurement methods, models, statistical classifications, or sampling frames. CIPSEA defines s
+                        <E T="03">tatistical purpose</E>
+                         as the description, estimation, or analysis of the characteristics of groups, without identifying the individuals or organizations that comprise such groups; and includes the development, implementation, or maintenance of methods, technical or administrative procedures, or information resources that support such purposes. As defined in 
+                        <E T="03">Principles and Practices for a Federal Statistical Agency</E>
+                         (
+                        <E T="03">Principles and Practices</E>
+                        ), 
+                        <E T="03">relevance</E>
+                         means measuring processes, activities, and things that matter to policy makers, and public and private sector data users.
+                        <SU>2</SU>
+                        <FTREF/>
+                          
+                        <E T="03">Objectivity,</E>
+                         as defined in
+                        <E T="03"> Government-wide Information Quality Guidelines</E>
+                         (Information Quality Guidelines) (67 FR 8453, Jan. 3, 2002), refers to disseminating information in an accurate, clear, complete, and unbiased manner. As defined in 
+                        <E T="03">Principles and Practices</E>
+                         (p. 11), 
+                        <E T="03">accuracy</E>
+                         refers to generating statistics that consistently match the events and trends being measured. 
+                        <E T="03">Confidentiality</E>
+                         refers to a quality or condition of information as an obligation not to disclose that information to an unauthorized party.
+                        <SU>3</SU>
+                        <FTREF/>
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>1</SU>
+                             Statistical activities implicitly but necessarily involve the design, editing, and storage of statistical data as instrumental to collection, compilation, processing, analysis, release, and dissemination of statistical information. Therefore, for clarity, this Directive explicitly refers to each of these as statistical activities.
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>2</SU>
+                             
+                            <E T="03">Principles and Practices for a Federal Statistical Agency,</E>
+                             National Research Council of the National Academies, Fifth edition, Committee on National Statistics, Constance F. Citro and Miron L. Straf, Editors, Division of Behavioral and Social Sciences and Education. Washington, DC The National Academies Press, (2013), p. 11.
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>3</SU>
+                             
+                            <E T="03">Private Lives and Public Policies: Confidentiality and Accessibility of Government Statistics.</E>
+                             Committee on National Statistics, Commission on Behavioral and Social Sciences and Education, National Research Council and the Social Science Research Council, Washington, DC National Academy Press (1993) p. 22.
+                        </P>
+                    </FTNT>
+                    <P>
+                        <E T="03">Introduction:</E>
+                         This Directive delineates the fundamental responsibilities of Federal statistical agencies and recognized statistical units. The responsibilities in this Directive are built upon and are consistent with the goals and principles of the 
+                        <E T="03">Paperwork Reduction Act</E>
+                         of 1995 (44 U.S.C. 3504 (e)), the 
+                        <E T="03">Information Quality Act</E>
+                         (Pub. L. 106-554, Division C, title V, Sec. 515, Dec. 21, 2000; 114 Stat. 2763A-153 to 2763A-154), 
+                        <E T="03">Government-wide Information Quality Guidelines</E>
+                         (Information Quality Guidelines) (67 FR 8453, Jan. 3, 2002), 
+                        <E T="03">Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002</E>
+                         (CIPSEA) (Pub. L. 107-347, title V; 116 Stat. 2962, Dec. 17, 2002), 
+                        <E T="03">Implementation Guidance for Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002</E>
+                         (CIPSEA Implementation Guidance) (72 FR 33362 at 33368, June 15, 2007), the 
+                        <E T="03">Privacy Act of 1974</E>
+                         (5 U.S.C. 552a), the 
+                        <E T="03">Privacy Act Implementation(PB): Guidelines and Responsibilities</E>
+                         (40 FR 28948, Jul. 9, 1975), 
+                        <E T="03">Section 208 of the E-Government Act of 2002</E>
+                         (Pub. L. 107-347, 44 U.S.C. Ch 36, Dec. 17, 2002), OMB's 
+                        <E T="03">Circular A-130</E>
+                         (revised Nov. 28, 2000), the 
+                        <E T="03">President's Memorandum on the Preservation and Promotion of Scientific Integrity</E>
+                         (March 9, 2009), the 
+                        <E T="03">Memorandum for the Heads of Executive Departments and Agencies</E>
+                         (December 17, 2010) issued by the Director of the Office of Science and Technology Policy (OSTP Memorandum of December 17, 2010), 
+                        <E T="03">Standards and Guidelines for Statistical Surveys</E>
+                         (71 FR 55522, Sept. 22, 2006), 
+                        <E T="03">Statistical Policy Directive No. 3, Compilation, Release, and Evaluation of Principal Federal Economic Indicators</E>
+                         (Directive 3) (50 FR 38932, Sept. 25, 1985), 
+                        <E T="03">Statistical Policy Directive No. 4, Release and Dissemination of Statistical Products Produced by Federal Statistical Agencies</E>
+                         (Directive 4) (73 FR 12622-12625, Mar. 7, 2008) and 
+                        <E T="03">Principles and Practices for a Federal Statistical Agency</E>
+                         (
+                        <E T="03">Principles and Practices</E>
+                        ). The responsibilities in this Directive are also consistent with the 
+                        <E T="03">European Statistics Code of Practice</E>
+                         
+                        <SU>4</SU>
+                        <FTREF/>
+                         and the 
+                        <E T="03">United Nations Fundamental Principles of Official Statistics.</E>
+                        <SU>5</SU>
+                        <FTREF/>
+                         This Directive is not intended to replace current guidance; agencies must continue to comply with all applicable laws, regulations, and policies.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>4</SU>
+                             
+                            <E T="03">European Statistics Code of Practice for the National and Community Statistical Authorities,</E>
+                             European Statistical System, Adopted September 28, 2011.
+                        </P>
+                    </FTNT>
+                    <FTNT>
+                        <P>
+                            <SU>5</SU>
+                             
+                            <E T="03">Fundamental Principles of Official Statistics,</E>
+                             United Nations Statistical Commission, adopted April 11-15, 1994. Revised preamble adopted February 26-March 1, 2013; adopted July 24, 2013 by the United Nations Economic and Social Council; adopted January 29, 2014 by the United Nations General Assembly (with sponsorship by the United States).
+                        </P>
+                    </FTNT>
+                    <P>The responsibilities delineated in this Directive provide a framework that supports Federal statistical policy and serves as a foundation for Federal statistical activities, promoting trust among statistical agencies, data providers, and data users. Data users rely upon an agency's reputation as an objective source of relevant, accurate, and objective statistics, and data providers rely upon an agency's authority and reputation to honor its pledge to protect the confidentiality of their responses and to use them exclusively for statistical purposes. Federal statistical agencies and recognized statistical units must adhere to these responsibilities and adopt policies, best practices, and appropriate procedures to implement them. Federal departments must enable, support, and facilitate Federal statistical agencies and recognized statistical units as they implement these responsibilities.</P>
+                    <P>
+                        <E T="03">Responsibilities:</E>
+                         It is the responsibility of Federal statistical agencies and recognized statistical units to 
+                        <E T="03">produce and disseminate relevant and timely information; conduct credible, accurate, and objective statistical activities</E>
+                        ; and 
+                        <E T="03">protect the trust of information providers by ensuring confidentiality and exclusive statistical use of their responses</E>
+                         as described below.
+                        <SU>6</SU>
+                        <FTREF/>
+                         The benefits to Federal statistical data users and the Nation of maintaining and enhancing the quality of official Federal statistics envisioned by this Directive become fully realized when Federal statistical agencies and recognized statistical units, with enabling support and facilitation from their Departments, achieve these mutually-reinforcing responsibilities concurrently.
+                    </P>
+                    <FTNT>
+                        <P>
+                            <SU>6</SU>
+                             Although the responsibilities of statistical agencies and recognized statistical units are numbered here for ease of reference, no ranking of importance is implied.
+                        </P>
+                    </FTNT>
+                    <P>
+                        <E T="03">Responsibility 1: Produce and disseminate relevant and timely information.</E>
+                         The core mission of Federal statistical agencies and recognized statistical units is to produce 
+                        <PRTPAGE P="71615"/>
+                        relevant and timely statistical information to inform decision-makers in governments, businesses, institutions, and households. Federal statistical agencies and recognized statistical units must be knowledgeable about the issues and requirements of programs and policies relating to their subject domains. This requires communication and coordination among agencies and within and across Departments when planning information collection and dissemination activities. In addition, Federal statistical agencies and recognized statistical units must seek input regularly from the broadest range of private- and public-sector data users, including analysts and policy makers within Federal, State, local, tribal, and territorial government agencies; academic researchers; private sector businesses and constituent groups; and non-profit organizations. Program and policy-relevant information may be directly collected from individuals, organizations, or establishments through surveys; administrative records collected and maintained by the agency, or other government agencies; datasets available from the private sector; or publicly available information released on Internet Web sites that meets an agency's quality standards. Statistical agencies should be innovative in applying new technologies in their methods for designing, collecting, processing, editing, compiling, storing, analyzing, releasing, and disseminating data to improve the accuracy and timeliness of their information and the efficiency of their operations. (
+                        <E T="03">Principles and Practices,</E>
+                         pp. 17 and 53)
+                    </P>
+                    <P>
+                        <E T="03">Responsibility 2: Conduct credible and accurate statistical activities.</E>
+                         Federal statistical agencies and recognized statistical units apply sound statistical methods to ensure statistical products are accurate. Federal statistical agencies and recognized statistical units achieve this by regularly evaluating the data and information products they publicly release against the OMB Government-wide 
+                        <E T="03">Information Quality Guidelines</E>
+                         as well as their individual agency's information quality guidelines. Where appropriate, information about how the data were collected and any known or potential data limitations or sources of error (such as population or market coverage, or sampling, measurement, processing, or modeling errors) should be described to data users so they can evaluate the suitability of the data for a particular purpose. Errata identified after data release should be described to data users on an ongoing basis as verified. Federal statistical agencies and recognized statistical units must be vigilant in seeking new methods and adopting new technologies to ensure the quality and efficiency of the information they collect and produce. (
+                        <E T="03">Principles and Practices,</E>
+                         pp. 42-43) Data derived from outside sources must be described in information products and communication materials so that users can employ exogenous information appropriately. Federal statistical agencies and recognized statistical units must provide complete documentation of their dissemination policies and ensure that all users have equitable access to data disseminated to the public (
+                        <E T="03">Statistical Policy Directive No. 4,</E>
+                         73 FR 12622 at 12625). Additionally, Federal statistical agencies and recognized statistical units must periodically review the techniques and procedures used to implement their information quality guidelines to keep pace with changes in best practices and technology.
+                    </P>
+                    <P>
+                        <E T="03">Responsibility 3: Conduct objective statistical activities.</E>
+                         It is paramount that Federal statistical agencies and recognized statistical units produce data that are impartial, clear, and complete and are readily perceived as such by the public. The objectivity of the information released to the public is maximized by making information available on an equitable, policy-neutral, transparent, timely, and punctual basis. Accordingly, Federal statistical agencies and recognized statistical units must function in an environment that is clearly separate and autonomous from the other administrative, regulatory, law enforcement, or policy-making activities within their respective Departments. Specifically, Federal statistical agencies and recognized statistical units must be able to conduct statistical activities autonomously when determining what information to collect and process, the physical security and information systems security employed to protect confidential data, which methods to apply in their estimation procedures and data analysis, when and how to store and disseminate their statistical products, and which staff to select to join their agencies. In order to maintain credibility with data providers and users as well as the public, Federal statistical agencies and recognized statistical units must seek to avoid even the appearance that agency design, collection, processing, editing, compilation, storage, analysis, release, and dissemination processes may be manipulated. The actual and perceived credibility of Federal statistics requires assurance that the selection of candidates for statistical positions is based primarily on their scientific and technical knowledge, credentials, experience, and integrity. Moreover, Federal statistical agencies and recognized statistical units must maintain and develop in-house staff who are trained in statistical methodology to properly plan, design, and implement core data collection operations and to accurately analyze their data. (
+                        <E T="03">OMB Government-wide Information Quality Guidelines; CIPSEA Implementation Guidance,</E>
+                         33362 at 33371; 
+                        <E T="03">OSTP Memorandum of December 17, 2010; Principles and Practices,</E>
+                         p. 70)
+                    </P>
+                    <P>
+                        <E T="03">Responsibility 4: Protect the trust of information providers by ensuring the confidentiality and exclusive statistical use of their responses.</E>
+                         Maintaining and enhancing the public's trust in a Federal statistical agency's or recognized statistical unit's ability to protect the integrity of the information provided under a pledge of confidentiality is essential for the completeness and accuracy of statistical information as well as the efficiency and burden of its production. Providers of information, such as survey respondents, must be able to trust and rely upon the information and confidentiality pledges that Federal statistical agencies and recognized statistical units provide about the need to collect information and its intended use for exclusively statistical purposes. Maintaining consistent and effective protection reduces public confusion, uncertainty, and concern about the treatment and use of reported information. (
+                        <E T="03">Order Providing for the Confidentiality of Statistical Information,</E>
+                         62 FR 35044 (June 27, 1997)) In addition, adopting this protection reduces the cost and reporting burden imposed by programs of Federal statistical agencies and recognized statistical units. Fostering trust among data providers about a statistical agency's authority and ability to protect the confidentiality and exclusive statistical use of responses promotes higher participation in surveys and accurate reporting of information from respondents. Federal statistical agencies and recognized statistical units build and sustain trust with data providers by maintaining a strong organizational climate that safeguards and protects the integrity and confidentiality of the data collected, processed, and analyzed to ensure that the information is secure against unauthorized access, editing, deletion, or use. Federal statistical agencies and recognized statistical units must fully adhere to legal requirements and follow 
+                        <PRTPAGE P="71616"/>
+                        best practices for protecting the confidentiality of data, including training their staffs and agents, and ensuring the physical and information system security of confidential information. (
+                        <E T="03">CIPSEA Implementation Guidance,</E>
+                         33362 at 33374)
+                    </P>
+                    <P>These responsibilities provide a framework for Federal statistical policy and the foundation upon which core functions of Federal statistical agencies and recognized statistical units are grounded. Adherence to these responsibilities ensures that the Federal statistical system continues to provide relevant, accurate, objective statistics in a manner that honors and maintains the public's trust.</P>
+                </SUPLINF>
+                <FRDOC>[FR Doc. 2014-28326 Filed 12-1-14; 8:45 am]</FRDOC>
+                <BILCOD>BILLING CODE 3110-01-P</BILCOD>
+            </NOTICE>
