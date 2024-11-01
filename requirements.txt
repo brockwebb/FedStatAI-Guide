@@ -6,6 +6,7 @@ markdown2          # Convert markdown to HTML if needed for further parsing
 python-dotenv      # For environment variable management
 jupyter            # To work with Jupyter Notebooks
 langchain          # Framework for LLM apps.
-langchain-community # Community LLM tools.
+langchain_community # Community LLM tools.
+langchain_openai   # Community LLM tools.
 openai             # OpenAI API client.
 faiss-cpu          # Vector search library.
