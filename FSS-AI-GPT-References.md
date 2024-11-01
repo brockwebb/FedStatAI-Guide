@@ -84,7 +84,7 @@ Given the sensitivity of statistical data, the FSS GPT must adhere to strict dat
 - **Title**: NIST Privacy Framework  
 - **Source**: NIST  
 - **URL**: https://www.nist.gov/privacy-framework
-- **PDF_URL**: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01162020.pdf 
+- **PDF_URL**: NA 
 - **Data_URL**: https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/PF_1_0_0/home?element=all
 - **DOI_URL**: https://doi.org/10.6028/NIST.CSWP.01162020
 - **MODS_URL**: NA 
@@ -93,7 +93,7 @@ Given the sensitivity of statistical data, the FSS GPT must adhere to strict dat
 - **Title**: NIST SP 800-53 Rev. 5: Security and Privacy Controls for Information Systems  
 - **Source**: NIST  
 - **URL**: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
-- **PDF_URL**: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf  
+- **PDF_URL**: NA
 - **DOI_URL**: https://doi.org/10.6028/NIST.SP.800-53r5
 - **MODS_URL**: NA 
 - **XML_URL**: NA
