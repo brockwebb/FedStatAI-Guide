@@ -1,8 +1,8 @@
 #Version Information
-  Author: [Brock Webb](https://www.linkedin.com/in/brockwebb/)
-  Organization: Self
-  Name: FedStatAI Guide
-  Version: 1.0
+  - Author: [Brock Webb](https://www.linkedin.com/in/brockwebb/)
+  - Organization: Self
+  - Name: FedStatAI Guide
+  - Version: 1.0
 
 ## Disclaimer
 - All work and opinions are my own and do not necessarily represent those of my employer.
